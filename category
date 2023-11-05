@@ -328,3 +328,364 @@ values
     (, `Children's clothes & shoes organisation`),
 
 -- cat: Furniture
+-- subcat1: Gaming furniture
+    (, 'Desks For Gaming'),
+    (, 'Gaming Chairs'),
+    (, 'Gaming accessories'),
+    (, 'Gaming desk & chair sets'),
+-- subcat1: Sofas
+    (, 'Fabric sofas'),
+    (, 'Leather & coated fabric sofas'),
+    (, 'Modular sofas'),
+    (, 'Sofa-beds'),
+    (, 'Ottomans, footstools & pouffes'),
+    (, 'Chaise lounges'),
+    (, 'Sofa parts & accessories'),
+    (, 'Soda & armchairs covers'),
+-- subcat1: Furniture sets
+    (, 'Hallway furniture sets'),
+    (, 'Bedroom furniture sets'),
+    (, 'Outdoor sofa combinations'),
+    (, 'Outdoor Furniture: Dining Sets'),
+    (, 'Desk & chair sets'),
+    (, 'Bathroom Furniture Sets'),
+    (, 'Nursery furniture sets'),
+    (, 'Conference table & chair sets'),
+-- subcat1: Bed Frames
+    (, 'Double beds'),
+    (, 'Sofa-Beds'),
+    (, 'Bed with Storage'),
+    (, 'Divan Beds'),
+    (, 'Single Beds & Single Bed Frames'),
+    (, 'Guest Beds & Day Beds'),
+    (, 'Upholstered beds'),
+    (, `Children's Beds`),
+    (, 'Loft beds & bunk beds'),
+    (, 'Bedroom furniture sets'),
+    (, 'Children Cots'),
+    (, 'Under bed storage'),
+    (, 'Bed Headboards'),
+    (, 'Bed Legs'),
+    (, 'Bed & headboard covers'),
+-- subcat1: Bookcases and Shelving Units (also in storage and organisation)
+-- subcat1: Table & desks
+    (, 'Desks & Computer Desks'),
+    (, 'Bedside Table & Cabinets'),
+    (, ''Coffee Tables & Side Tables),
+    (, 'Dining Sets'),
+    (, 'Dining Tables'),
+    (, 'Multifunctional tables'),
+    (, 'Baby Changing Tables'),
+    (, 'Dressing tables'),
+    (, `Children's Tables`),
+    (, 'Kitchen Bar Tables'),
+    (, 'BEKANT conference & meeting tables'),
+    (, 'Cafe Tables'),
+    (, 'Console Tables'),
+-- subcat1: Display cabinet (also in storage and organisation)
+-- subcat1: TV Console (also in storage and organisation)
+-- subcat1: Chest of Drawers (also in storage)
+-- subcat1: Wardrobes (in storage)
+-- subcat1: Chairs, Stools & Benches
+    (, 'Armchairs & Chaise Lounges'),
+    (, 'Desk Chairs, Office Chairs & Work Chairs'),
+    (, 'Gaming Chairs'),
+    (, 'Dining Room Furniture: Dining Chairs'),
+    (, 'Dining Sets'),
+    (, 'Kitchen Bar Chairs'),
+    (, `Childern's Chairs`),
+    (, 'Cafe Chairs'),
+    (, 'Step stools & ladders'),
+    (, 'Baby Chairs and Highchairs with Safety Belt'),
+    (, 'Dressing table chairs & stools'),
+    (, 'Stools'),
+    (, 'Benches'),
+-- subcat1: Outdoor furniture 
+    (, 'Outdoor seating'),
+    (, 'Outdoor dining'),
+    (, `Children's Outdoor Furniture`),
+    (, 'Sun loungers & hammocks'),
+    (, 'Outdoor furniture protection'),
+    (, 'Outdoor seat cushions'),
+-- subcat1: Sideboards (in storage)
+-- subcat1: Children's furniture
+    (, 'Toy storage'),
+    (, `Children's Wardrobes`),
+    (, `Children's Desks`),
+    (, `Children's Chests of Drawers`),
+    (, 'Small chairs'),
+    (, `Children's chairs`),
+    (, `Children's Tables`),
+    (, `Children's Outdoor Furniture`),
+    (, `Children's Stools & Benches`),
+    (, `Children's Armchairs`),
+    (, 'Junior Dining Chairs'),
+    (, 'Play tents'),
+-- subcat1: Trolleys (in storage)
+-- subcat1: Bar Tables & Chairs
+    (, 'Kitchen Bar Chairs'),
+    (, 'Kitchen Bar Tables'),
+    (, 'Kitchen Bar Tables Sets'),
+-- subcat1: Armchairs & Chaise Longues
+    (, 'Armchairs'),
+    (, 'Chaise longues'),
+    (, 'Ottomans, footstools & pouffes'),
+    (, 'Armchair parts & accessories'),
+-- subcat1: Cafe Furniture
+    (, 'Cafe Tables'),
+    (, 'Cafe Chairs'),
+-- subcat1: Nursery furniture 
+    (, 'Toy storage'),
+    (, `Children's Wardrobes`),
+    (, `Children's Chests of Drawers`),
+    (, 'Children Cots'),
+    (, 'Baby Chairs and Highchairs with Safety Belt'),
+    (, 'Baby Changing Tables'),
+    (, 'Nursery furniture sets'),
+-- subcat1: Dining furniture
+    (, 'Cafe Tables'),
+    (, 'Kitchen Bar Chairs'),
+    (, 'Kitchen Bar Tables'),
+    (, 'Sideboards, buffets & console tables'),
+    (, 'Dining Tables'),
+    (, 'Stools'),
+    (, 'Dining Sets'),
+    (, 'Dining Room Furniture: Dining Chairs'),
+    (, 'Dining Benches for Kitchen'),
+
+-- cat: Kitchen cabinets & appliances
+-- subcat1: Kitchen Doors & Drawer Fronts
+    (, 'METOD Kitchen Drawer, Cupboard Doors'),
+    (, 'ENHET doors & drawer fronts'),
+-- subcat1: Kitchen furniture: Cabinets
+    (, 'METOD kitchen cabinets'),
+    (, 'METOD wall cabinets'),
+    (, 'METOD high cabinets'),
+    (, 'METOD cabinets for built-in appliances'),
+    (, 'ENHET kitchen cabinets'),
+    (, 'KNOXHULT kitchen cabinets & parts'),
+-- subcat1: METOD, ENHET & KNOXHULT Kitchen Furniture
+    (, 'METOD kitchen'),
+    (, 'ENHET Kitchen'),
+    (, 'KNOXHULT Unit Kitchen'),
+    (, 'JARNBODA kitchen'),
+-- subcat1: Interior Fittings and accessories
+    (, 'Cutlery trays'),
+    (, 'Drawer dividers'),
+    (, 'Kitchen Accessories: Garbage bins'),
+    (, 'Shelves & drawers'),
+    (, 'Hingers & Dampers'),
+    (, 'Clean Organisers'),
+-- subcat1: Kitchen Rack & Wall Storage
+    (, 'Kitchen Wall Organisers'),
+    (, 'Kitchen Wall Shelves'),
+-- subcat1: Kitchen Table Top & Countertops
+    (, 'Pre-cut worktops'),
+    (, 'Worktop Accessories for METOD'),
+-- subcat1: Kitchen appliances
+    (, 'Small kitchen appliances'),
+    (, 'Fridges & Freezers'),
+    (, 'Hobs'),
+    (, 'Extractor hoods & filters'),
+    (, 'Ovens & combi-ovens'),
+    (, 'Microwave ovens & Microwave combi ovens'),
+    (, 'Dishwashers'),
+    (, 'Accessories for appliances'),
+--subcat1: Kitchen Sinks & Taps
+    (, 'Kitchen Sinks: Stainless Steel or Ceramic'),
+    (, 'Mixer taps'),
+    (, 'Sink parts'),
+-- subcat1: Splashbacks & wall panels for METOD
+    (, 'Laminate Splashbacks'),
+    (, 'Acrylic Splashbacks & Cabinets'),
+-- subcat1: Kitchen Units
+    (, 'SUNNERSTA unit kitchen'),
+    (, 'ASPINGE kitchenettes'),
+
+--cat: Kitchenware & Tableware
+--subcat1: Food Storage & Food Containers
+    (, 'Food Containers'),
+    (, 'Jars & Tins'),
+    (, 'Spice & condiment stands'),
+    (, 'Wine racks'),
+    (, 'Cool bags'),
+    (, 'Water bottle & travel mugs'),
+--subcat1: Dinnerware & Plates & Bowls
+    (, 'Bowls & Kitchenware'),
+    (, 'Dinnerware Sets'),
+    (, 'Plates'),
+    (, 'Side plates'),
+    (, 'Depp Plates'),
+    (, `Children's Plates & Bowls`),
+--subcat1: Serveware
+    (, 'Trays'),
+    (, 'Bowls'),
+    (, 'Serving dishes'),
+    (, 'Cake & serving stands'),
+--subcat1: Coffee & Tea
+    (, 'Mugs & cups'),
+    (, 'Vacuum flasks'),
+    (, 'Coffee Makers & Accessories'),
+    (, 'Tea pots & accessories'),
+--subcat1: Tablecloth, Table Mat & Fabric
+    (, 'Table cloths & runners'),
+    (, 'Place mats & coasters'),
+-- subcat1: Cookware
+    (, 'Frying Pans & Works'),
+    (, 'Cooking pots & pans'),
+    (, 'Ovenware & baking trays'),
+    (, 'Cooking Accessories'),
+-- subcat1: Glassware & jugs
+    (, 'Dining Glasses'),
+    (, 'Jugs & Carafes'),
+    (, 'Wine glasses'),
+    (, 'Drinking accessories'),
+    (, 'Specialty glassware'),
+-- subcat1: Cooking & Baking Utensils
+    (, 'Cooking Accessories'),
+    (, 'Measuring cups & mixing bowls'),
+    (, 'Cooking Preparation Tools'),
+    (, 'Cooking Utensils'),
+    (, 'Colanders'),
+    (, 'Ice Cream & Ice Cubes Accessories'),
+    (, 'Baking Tools & Accessories'),
+-- subcat1: Dishwashing Accessories
+    (, 'Dish Drainer & Drying Racks'),
+    (, 'Sink accessories'),
+    (, 'Dish Clothes & Sponges'),
+    (, 'Kitchen Accessories: Dishwashing Soap or Liquid Dispenser'),
+-- subcat1: Cutlery & eating utensils
+    (, 'Cutlery Sets'),
+    (, `Children's Cutlery`),
+    (, 'Serving cutlery'),
+-- subcat1: Kitchen Knife & Chopping Board
+    (, 'Chopping Coards'),
+    (, 'Knives'),
+    (, 'Sharpening tools'),
+-- subcat1: Baking Equipment
+    (, 'Tins & moulds'),
+    (, 'Baking Tools & Accessories'),
+    (, 'Measuring tools'),
+    (, 'Mixing bowls'),
+-- subcat1: Kitchen Textiles: Tea Towels, Aprons & Oven Gloves
+    (, 'Tea Towels & Tableware'),
+    (, 'Aprons'),
+    (, 'Pot holders & oven gloves'),
+-- subcat1: Napkins & napkin holders
+    (, 'Napkins'),
+    (, 'Napkin holders'),
+-- subcat1: Children's Kitchenware & Tableware
+    (, `Children's Plates & Bowls`),
+    (, `Children's cups & mugs`),
+    (, `Children's Cutlery`),
+    (, `Children's Cooking & Baking`),
+-- subcat1: Picnic & outdoor recreation
+    (, 'Picnic accessories'),
+    (, 'Food Containers'),
+    (, 'Water bottle & travel mugs'),
+    (, 'Bags & Organisers'),
+
+-- cat: Home decoration
+-- subcat1: Frames & Pictures
+    (, 'Picture & photo frames'),
+    (, 'Ready to hang art'),
+    (, 'Posters'),
+    (, 'Display shelves & picture ledges'),
+    (, 'Collage Photo Frames'),
+    (, 'Art Decoration Cards'),
+    (, 'Wall accents'),
+-- subcat1: Plants & flowers
+    (, 'Growing Accessories'),
+    (, 'Artificial Plants & Flowers'),
+    (, 'Plants'),
+    (, 'Dried plants & potpourri'),
+-- subcat1: Storage racks, shelves & shelving unit
+    (, 'Paper & media boxes'),
+    (, 'Clothes Boxes'),
+    (, `Children's Boxes & Baskets`),
+    (, 'Storage Baskets'),
+    (, 'Secondary storage boxes'),
+    (, 'Bathroom Boxes & Baskets'),
+-- subcat1: Flower Pots & Planters
+    (, 'Watering cans'),
+    (, 'Indoor Plant Pots'),
+    (, 'Outdoor plant pots'),
+    (, 'Hanging planterns'),
+    (, 'Plant stands & movers'),
+    (, 'Self watering plant pots'),
+-- subcat1: Mirrors
+    (, 'Wall mirrors'),
+    (, 'Large mirrors'),
+    (, 'Decorative Mirrors'),
+    (, 'Round mirrors'),
+    (, 'Standing mirrors'),
+    (, 'Bathroom Vanity Mirrors'),
+    (, 'Mirror cabinets'),
+    (, 'Makeup & magnifying mirrors'),
+    (, 'Mirrors with lights'),
+-- subcat1: Candles & Candle Holders
+    (, 'Scented candles'),
+    (, 'Unscented candles'),
+    (, 'Candle Holders'),
+    (, 'LED candles'),
+    (, 'Lanterns'),
+    (, 'Candle accessories'),
+-- subcat1: Flower Vase, Bowls & Plants
+    (, 'Vases'),
+    (, 'Bowls & Dishes'),
+-- subcat1: Alarm Clocks & Wall Clock
+    (, 'Wall & table clocks'),
+    (, 'Home Alarm Clocks'),
+-- subcat1: Scents & Home Fragrance
+    (, 'Scented candles'),
+    (, 'Potpourri'),
+    (, 'Wardrobe scents'),
+-- subcat1: Winter decoration
+    (, ''Tree ornaments & accessories),
+    (, 'Winter candles & candle holders'),
+    (, 'Winter table decorations'),
+
+-cat: Lighting, lamps & shades
+--subcat1: Lamps
+    (, 'Table Lamp, Study Lamp & Small Lamp'),
+    (, 'Floor Reading & LED Lamps'),
+    (, 'Lamp Shades & Bases Cords'),
+    (, 'Pendants & Ceiling lamps'),
+    (, 'Table Lamps & Lighting'),
+    (, 'Wall Light & Wall Lamp'),
+    (, `Children's Room Lighting`),
+    (, 'Ceiling & wall spotlights'),
+    (, 'Smart lamps LED'),
+    (, 'LED lights'),
+    (, 'Portable lamps'),
+--subcat1: Decorative Lighting
+    (, 'Decorative pendant lamps'),
+    (, 'Decorative lamp shades'),
+    (, 'LED candles'),
+    (, 'Table light decorations'),
+    (, 'LED lanterns'),
+    (, 'String lights'),
+    (, 'LED strip lights'),
+-- subcat1: LED Spotlights
+    (, 'Bathroom cabinet lighting'),
+    (, 'Kitchen LED and Cabinet Lighting Online'),
+    (, 'Bookcase Lighting'),
+    (, 'Wardrobe lighting'),
+-- subcat1: Small Lighting & Improvement
+    (, 'Smart integrated lighting'),
+    (, 'Smart LED light bulbs'),
+    (, 'Smart light swirches & remote controls'),
+    (, 'Smart lighting systems & kits'),
+    (, 'Smart lamps LED'),
+-- subcat1: Bathroom Lights
+    (, 'Bathroom cabinet lighting'),
+    (, 'Bathroom ceiling lights'),
+    (, 'Bathroom wall lights'),
+    (, 'Mirrors with lights'),
+-- subcat1: LED bulbs
+    (, 'Standard LED light bulbs'),
+    (, 'Smart LED light bulbs'),
+    (, 'Decorative LED lights bulbs'),
+
+-- cat: Bed & Mattressess
+    (, ''),
