@@ -1,44 +1,44 @@
 -- วิธีไล่ดู category > เปิดแถบข้าง > product > เลือก cat หลัก > เลือก cat รอง1 > จะมี cat รองอยู่พร้อมกับรูปภาพ
 
-insert into Category (category_id, category_name)
+insert into public."Category" (category_id, category_name)
 values 
-    (, 'Storage & organisation'),
-    (, 'Furniture'),
-    (, 'Kitchen Cabinets & Appliances'),
-    (, 'Kitchenware & Tableware'),
-    (, 'Home Decoration'),
-    (, 'Lighting, lamps & shades'),
-    (, 'Beds & Mattresses'),
-    (, 'Baby & Children'),
-    (, 'Bathroom Products'),
-    (, 'Outdoor products'),
-    (, 'Rugs, mats & flooring'),
-    (, 'Pots & Plants'),
-    (, 'Laundry & cleaning'),
-    (, 'Home Electronics'),
-    (, 'Home Improvement'),
-    (, 'Textiles'),
-    (, 'IKEA Home Smart'),
-
-insert into SubCategory_1 (subcategory_id, descr)
-values
-    -- storage
-    (, 'Bookcases & Shelving Units'), --
-    (, 'Storage solution systems'),
-    (, 'Display Cabinets & storage systems'), --
-    (, 'TV Console, Stands & Cabinet'), --
-    (, 'Chest of Drawers & Drawer Units'), --
-    (, 'Wardrobes'), --
-    (, 'Small Storage'),
-    (, 'Garage storage'),
-    (, 'Sideboards, buffets & console tables'), --
-    (, 'Outdoor organising'),
-    (, 'Wall shelves & organisation'),
-    (, 'Clothes & Shoe Racks'),
-    (, 'Trolleys & kitchen islands'), --
-    (, 'Bags & Organisers'),
-    (, 'Moving supplies'),
-    (, `Children's Storage Furniture`),
+    ('C0001', 'Storage & organisation'),
+    ('C0002', 'Furniture'),
+    ('C0003', 'Kitchen Cabinets & Appliances'),
+    ('C0004', 'Kitchenware & Tableware'),
+    ('C0005', 'Home Decoration'),
+    ('C0006', 'Lighting, lamps & shades'),
+    ('C0007', 'Beds & Mattresses'),
+    ('C0008', 'Baby & Children'),
+    ('C0009', 'Bathroom Products'),
+    ('C0010', 'Outdoor products'),
+    ('C0011', 'Rugs, mats & flooring'),
+    ('C0012', 'Pots & Plants'),
+    ('C0013', 'Laundry & cleaning'),
+    ('C0014', 'Home Electronics'),
+    ('C0015', 'Home Improvement'),
+    ('C0016', 'Textiles'),
+    ('C0017', 'IKEA Home Smart');
+	
+insert into public."SubCategory_1" (subcategory_id, descr)
+values 
+	-- Storage
+	('S1001', 'Bookcases & Shelving Units'), --
+    ('S1002', 'Storage solution systems'),
+    ('S1003', 'Display Cabinets & storage systems'), --
+    ('S1004', 'TV Console, Stands & Cabinet'), --
+    ('S1005', 'Chest of Drawers & Drawer Units'), --
+    ('S1006', 'Wardrobes'), --
+    ('S1007', 'Small Storage'),
+    ('S1008', 'Garage storage'),
+    ('S1009', 'Sideboards, buffets & console tables'), --
+    ('S1010', 'Outdoor organising'),
+    ('S1011', 'Wall shelves & organisation'),
+    ('S1012', 'Clothes & Shoe Racks'),
+    ('S1013', 'Trolleys & kitchen islands'), --
+    ('S1014', 'Bags & Organisers'),
+    ('S1015', 'Moving supplies'),
+    ('S1016', 'Children''s Storage Furniture'), -- current insert
     -- furniture
     (, 'Gaming furniture'),
     (, 'Sofas'),
@@ -67,13 +67,13 @@ values
     (, 'Kitchen Furniture: Cabinets'),
     (, 'METOD, ENHET & KNOXHULT Kitchen Furniture'),
     (, 'Interior Fittings and accessories'),
-    (, 'Metal & storage racks'),
+    (, 'Metal & storage racks'), *
     (, 'Kitchen Rack & Wall Storage'),
     (, 'Kitchen Table Top & Countertops'),
     (, 'Kitchen appliances'),
     (, 'Kitchen Islands & Trolleys'),
     (, 'Door Handles & Door Knobs'),
-    (, 'Kitchen LED and Cabinet Lighting Online'),
+    (, 'Kitchen LED and Cabinet Lighting Online'), *
     (, 'Kitchen Sinks and Taps'),
     (, 'Splashbacks & wall panels for METHOD'),
     (, 'Kitchen Units'),
@@ -184,7 +184,7 @@ values
     (, 'Cable Management & Accessories'),
     (, 'Smart light switches & remote controls'),
 -- Home Improvement
-    (, 'SKYTTA sliding door system'),
+    (, 'SKYTTA sliding door system'), *
     (, 'Door Handles & Door Knobs'),
     (, 'Outdoor flooring'),
     (, 'Tools & fittings'),
@@ -196,8 +196,8 @@ values
     (, 'Bed Textiles'),
     (, 'Curtains, Curtain Rods & Blinds'),
     (, 'Cushions & Cushion Covers'),
-    (, `Children's Textiles`),
-    (, 'Outdoor cushions'),
+    (, `Children's Textiles`), *
+    (, 'Outdoor cushions'), *
     (, 'Blankets & Throws'),
     (, 'Tablecloth, Table Mat & Fabric'),
     (, 'Bathroom Textiles'),
@@ -688,4 +688,265 @@ values
     (, 'Decorative LED lights bulbs'),
 
 -- cat: Bed & Mattressess
-    (, ''),
+-- subcat1: Bed Frames
+    (, 'Double beds'),
+    (, 'Sofa-beds'),
+    (, 'Bed with Storage'),
+    (, 'Divan Beds'),
+    (, 'Single Beds & Single Bed Frames'),
+    (, 'Guest Beds & Day Beds'),
+    (, 'Upholstered beds'),
+    (, `Children's Beds`),
+    (, 'Loft beds & bunk beds'),
+    (, 'Bedroom furniture sets'),
+    (, 'Children Cots'),
+    (, 'Under bed storage'),
+    (, 'Bed Headboards'),
+    (, 'Bed Legs'),
+    (, 'Bed & headboard covers'),
+-- subcat1: Bed Textiles
+    (, 'Bed Linen'),
+    (, 'Cushions & Cushion Covers'),
+    (, 'Quilts'),
+    (, 'Blankets & Throws'),
+    (, 'Bedspreads & bed throws'),
+    (, 'Mattress & pillow protectors'),
+    (, 'Pillows'),
+    (, 'Bed & headboard covers'),
+    (, 'Pillow protectors'),
+-- subcat1: Foam & spring mattresses
+    (, 'Spring mattresses'),
+    (, 'Foam Spring Mattresses'),
+    (, 'Mattresses & pillow protectors'),
+    (, 'Mattress toppers'),
+    (, `Children's Bed Mattresses`),
+    (, 'Cot Mattresses'),
+
+-- cat: Baby & Children
+-- subcat1: Childern
+    (, `Children's Storage Furniture`),
+    (, `Children's Furniture`),
+    (, 'Toys & play'),
+    (, `Children's Textiles`),
+    (, `Children's Beds`),
+    (, `Children's Room Lighting`),
+    (, `Children's Bed Mattresses`),
+    (, `Children's Accessories & Decoration 8-12`),
+    (, `Children's Kitchenware & Tableware`),
+    (, 'SMASTAS Storage System'),
+    (, 'Child Safety'),
+    (, 'Study furniture & accessories'),
+--subcat1: Baby Furniture, Toys and Textiles
+    (, `Childern's Storage Furniture`),
+    (, 'Nursery furniture'),
+    (, `Children's Room Lighting`),
+    (, 'Baby Changing, Bathing & Potty'),
+    (, 'Cots & Cot Mattresses'),
+    (, 'Baby Products: Nursery Textiles'),
+    (, 'Baby tableware'),
+    (, 'Baby Toys'),
+    (, 'Child Safety'),
+    (, 'SMASTAD Storage System'),
+
+-- cat: Bathroom Products
+-- subcat1: Bathroom systems
+    (, 'HAVBACK bathroom'),
+    (, 'ANGSJON bathroom'),
+    (, 'TANNFORSEN bathroom'),
+    (, 'HEMNES bathroom'),
+    (, 'ENHET bathroom'),
+    (, 'NYSJON bathroom'),
+-- subcat1: Bathroom Vanity Cabinet
+    (, 'Bathroom Vanity Wash-Stands'),
+    (, 'Vanity units without basin'),
+    (, 'Under Sink Base Cabinets'),
+    (, 'Bathroom Countertops'),
+    (, 'Bathroom cabinet legs'),
+-- subcat1: Bathroom Storage
+    (, 'Bathroom Vanity Cabinet'),
+    (, 'Bathroom Shelf Units'),
+    (, 'Bathroom Shelves, Accessories & Furniture'),
+    (, 'Bathroom Boxes & Baskets'),
+    (, 'Bathroom Furniture Sets'),
+    (, 'Bathroom Trolleys'),
+    (, 'Bathroom Shelves'),
+    (, 'Bathroom Stools & Benches'),
+-- subcat1: Bathroom Mirrors
+    (, 'Bathroom Vanity Mirrors'),
+    (, 'Mirror cabinets'),
+    (, 'Makeup & magnifying mirrors'),
+    (, 'Mirrors with lights'),
+-- subcat1: Bathroom Accessories & Organiser
+    (, 'Tower rails & towel holders'),
+    (, 'Bathroom Boxes & Baskets'),
+    (, 'Bathroom Bins'),
+    (, 'Shower caddies'),
+    (, 'Soap dispensers & soap dishes'),
+    (, 'Makeup organisers'),
+    (, 'Bathroom Shelves'),
+    (, 'Toilet roll holders & stands'),
+    (, 'Toilet brushes'),
+    (, 'Makeup & magnifying mirrors'),
+    (, 'Toothbrush holders'),
+    (, `Kid's potty & toilet accessories`),
+-- subcat1: Bathroom Laundry
+    (, 'Laundry accessories'),
+    (, 'Laundry baskets'),
+    (, 'Drying racks'),
+    (, 'Ironing Boards'),
+    (, 'Laundry cabinets & shelving'),
+-- subcat1: Bathroom Textiles
+    (, 'Towels'),
+    (, 'Bathroom Mats'),
+    (, 'Shower curtains'),
+    (, 'Spa accessories'),
+-- subcat1: Bathroom Lights
+    (, 'Bathroom cabinet lighting'),
+    (, 'Bathroom ceiling lights'),
+    (, 'Bathroom wall lights'),
+    (, 'Mirrors with lights'),
+-- subcat1: Showers
+    (, 'Shower caddies'),
+    (, 'Shower curtains'),
+    (, 'Shower sets & rails'),
+    (, 'Shower heads'),
+    (, 'Shower mixers'),
+    (, 'Shower enclosures & screens'),
+
+-- cat: Outdoor products
+-- subcat1: Outdoor furniture
+    (, 'Outdoor seating'),
+    (, 'Outdoor dining'),
+    (, `Children's Outdoor Furniture`),
+    (, 'Sun loungers & hammocks'),
+    (, 'Outdoor furniture protection'),
+    (, 'Outdoor seat cushions'),
+-- subcat1: Parasols & gazebos
+    (, 'Parasols & bases'),
+    (, 'Wind & sun shields'),
+    (, 'Outdoor Gazebos'),
+-- subcat1: Outdoor kitchen & accessories
+    (, 'Outdoor kitchen'),
+    (, 'Outdoor Barbecues'),
+-- subcat1: Outdoor pots & plants
+    (, 'Plants'),
+    (, 'Outdoor plants pots'),
+    (, 'Watering cans'),
+    (, 'Growing Accessories'),
+-- subcat1: Outdoor textiles & accessories
+    (, 'Outdoor cushions'),
+    (, 'Outdoor furniture protection'),
+    (, 'Outdoor rugs'),
+    (, 'Outdoor lanterns'),
+    (, 'Picnic & outdoor recreation'),
+
+--cat: Rugs, mats & flooring
+-- subcat1: Rugs
+    (, 'Large & medium rugs'),
+    (, 'Runners & small rugs'),
+    (, 'Handmade Rugs'),
+    (, 'Outdoor rugs'),
+    (, 'Door Mats'),
+    (, 'Sheepskins & cowhides'),
+    (, 'Anti-Slip & Underlays'),
+    (, 'Round rugs'),
+    (, `Children's Rugs`),
+
+-- cat: Pots & plants
+--subcat1: Plants & flowers
+    (, 'Growing Accessories'),
+    (, 'Artificial Plants & Flowers'),
+    (, 'Plants'),
+    (, 'Dried plants & potpourri'),
+-- subcat1: Flower Pots & Planters
+    (, 'Watering cans'),
+    (, 'Indoor Plant Pots'),
+    (, 'Outdoor plant pots'),
+    (, 'Hanging planterns'),
+    (, 'Plant stands & movers'),
+    (, 'Self watering plant pots'),
+
+-- cat: Laundry & cleaning
+-- subcat1: Waste bins & bags
+    (, 'Recycling bins'),
+    (, 'Waste paper & pedal bins'),
+    (, 'Bathroom Bins'),
+    (, 'Bin Bags & Lines'),
+-- subcat1: Dishwashing Accessories (in kitchenware)
+
+-- cat: Home Electronics
+-- subcat1: Kitchen appliances (in kitchen cabinets)
+-- subcat1: Small Lighting (in Lighting)
+-- subcat1: Cables & Chargers
+    (, 'Batteries & Battery Chargers'),
+    (, 'USB chargers'),
+    (, 'Wireless charging & accessories'),
+    (, 'Cable Management & Accessories'),
+-- subcat1: Mobile & tablet accessories
+    (, 'Wireless charging & accessories'),
+    (, 'Mobile & tablet stands'),
+    (, 'USB chargers'),
+-- subcat1: Speakers
+    (, 'Bluetooth Speakers'),
+
+-- cat: Home Improvement
+-- subcat1: SKYTTA sliding door system
+    (, 'SKYTTA sliding door combinations'),
+    (, 'Panels for SKYTTA sliding doors'),
+    (, 'SKYTTA parts'),
+-- subcat1: Tools & fittings
+    (, 'Screws & fasteners'),
+    (, 'Tools'),
+-- subcat1: Splashbacks (in kitchen cabinets)
+-- subcat1: Safety products
+    (, 'Child Safety'),
+    (, 'Home Safety Product'),
+
+-- cat: Textiles
+-- subcat1:  (in bed)
+-- subcat1: Curtains, Curtain Rods & Blinds
+    (, 'Curtains'),
+    (, 'Blinds'),
+    (, 'Curtain, Curtain Rod & Curtain Rail'),
+-- subcat1: Children's Textiles
+    (, `Children's Bedlinen`),
+    (, `Children's Duvets & Pillows`),
+    (, 'Children''s Cushions & Blankets'),
+    (, `Children's Rugs`),
+    (, `Children's Canopies & Bed tents`),
+    (, `Children's Curtains & Drapes`),
+-- subcat1: Outdoor cushions
+    (, 'Outdoor seat cushions'),
+    (, 'Outdoor pillows'),
+-- subcat1: Tablecloth, Table Mat & Fabric
+    (, 'Table cloths & runners'),
+    (, 'Place mats & coasters'),
+-- subcat1: Bathroom Textiles (in bathroom)
+-- subcat1: Fabric & Sewing
+    (, 'Fabrics'),
+    (, 'Sewing accessories'),
+-- subcat1: Kitchen Textiles: Tea Towels (in kitchen)
+-- subcat1: Baby Products: Nursery Textiles
+    (, 'Baby Bedding: Cot Linen'),
+    (, 'Baby Bath Towels & Washcloths'),
+    (, 'Nursery rugs'),
+    (, 'Baby Bed Products: Duvet Quilts and Pillows'),
+    (, 'Baby Blankets and Quilts'),
+    (, 'Nursery curtains'),
+-- subcat1: Rugs (in rugs)
+
+-- cat: IKEA Home Smart
+-- subcat1: Small lighting (in lighting)
+
+insert into subcategory_3 (subcategory_id, descr)
+values
+-- cat: Storage & Org
+-- subcat1: Bookcases & shelving
+-- subcat2: Wall shelves
+    (, 'Cube wall shelves'),
+    (, 'Floating shelves'),
+    (, 'Complete Wall Shelves'),
+    (, 'Display shelves & picture ledges'),
+    (, 'Shelves'),
+    (, 'Brackets'),
+    (, 'BOAXEL system'),
