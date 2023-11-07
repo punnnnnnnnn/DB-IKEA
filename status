@@ -1,0 +1,5 @@
+insert into public.Status (status_id, status_description)
+values
+(1, 'Preparing Goods'),
+(2, 'Out for Delivery'),
+(3, 'Delivered')
