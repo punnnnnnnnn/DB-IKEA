@@ -1,0 +1,1 @@
+insert into Status (status_id, status_description)
