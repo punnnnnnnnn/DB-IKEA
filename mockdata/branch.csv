@@ -1,0 +1,4 @@
+branch_id,branch_name,address,street,district,province,zip,branch_phone,branch_email,open_office_hour,close_office_hour
+'01,IKEA Bangna,38 Moo 6,Bang Na-Trat Frontage,Bang Phli,Samut Prakan,10540,'0605551234,ikea.bangna@ikano.th,10:00:00,22:00:00
+'02,IKEA Bang Yai,109,Rattanathibet,Bang Yai,Nonthaburi,11140,'0604567890,ikea.bangyai@ikano.th,10:00:00,22:00:00
+'03,IKEA Phuket,Bypass Biztown 180 Moo 5,Chalermprakiat Ratchakarn Thi 9,Muang,Phuket,83000,'0603216549,ikea.phuket@ikano.th,10:00:00,21:00:00
