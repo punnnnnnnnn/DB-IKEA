@@ -3,4 +3,3 @@ warehouse_id,warehouse_name,address,street,province,district,zip,warehouse_phone
 '02,Phuket Logistics Hub,987 Palm Street,Thepkasattri Road,Phuket,Mueang Phuket,83000,'0676987654,phuket.logish@gmail.com,08:30:00,17:30:00
 '03,Chiang Mai Warehouse,123 Main Street,Chang Moi Road,Chiang Mai,Mueang Chiang Mai,50000,'0653123456,chiangmai.wareh@gmail.com,08:00:00,17:00:00
 '04,Khon Kaen Storage,456 Oak Avenue,Mittraphap Road,Khon Kaen,Mueang Khon Kaen,40000,'0643789123,khonkaen.str@gmail.com,09:00:00,18:00:00
-'05,Hat Yai Distribution Center,789 Pine Street,Niphat Uthit 2 Road,Songkhla,Hat Yai,90110,'0674555789,hatyai.distcenter@gmail.com,07:30:00,16:30:00
