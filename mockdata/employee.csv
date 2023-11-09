@@ -1,4 +1,3 @@
-employee_id,emp_first_name,emp_last_name,telephone,address,street,district,province,zip,position_id,branch_id
 00001,Ellie,Leebetter,0601234567,59/33, Sukhumvit Rd,Klongtoey,Bangkok,10110,0004,02
 00002,Lombard,Thebeau,0867890123,41/29, Ratchadapisek Rd,Huai Khwang,Bangkok,10310,0003,03
 00003,Burtie,Beamand,0945678901,91/77, Praditmanutham Rd,Ladprao,Bangkok,10230,0035,02

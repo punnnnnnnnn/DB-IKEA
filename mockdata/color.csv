@@ -1,4 +1,3 @@
-color_id,color_name
 FFFFFF,White
 000000,Black
 808080,Gray
@@ -23,7 +22,6 @@ F5F5DC,Beige
 808000,Olive
 FF0080,Fuchsia
 00FF00,Lime
-800080,Dark Magenta
 FF1493,Deep Pink
 B0E0E6,Powder Blue
 4682B4,Steel Blue
