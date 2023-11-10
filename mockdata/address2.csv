@@ -98,403 +98,403 @@
 0000000098,2222 Surin Beach Road,Phuket,Thalang,83110,0621567890
 0000000099,2525 Nai Harn Beach Road,Phuket,Mueang Phuket,83100,0625678901
 0000000100,2828 Patong Beach Road,Phuket,Kathu,83150,0629012345
-0000000101,123/45 Sukhumvit Road,Bangkok,Klongtoey,10110,
-0000000102,789/12 Ratchadapisek Road,Bangkok,Din Daeng,10400,
-0000000103,456/78 Sathon Road,Bangkok,Sathon,10120,
-0000000104,234/56 Silom Road,Bangkok,Bang Rak,10500,
-0000000105,890/12 Wireless Road,Bangkok,Pathum Wan,10330,
-0000000106,567/89 Charoen Krung Road,Bangkok,Bang Kho Laem,10120,
-0000000107,321/54 Rama IV Road,Bangkok,Khlong Toei,10110,
-0000000108,987/65 Phloen Chit Road,Bangkok,Lumphini,10330,
-0000000109,654/32 Rama I Road,Bangkok,Pathum Wan,10330,
-0000000110,234/56 Lat Phrao Road,Bangkok,Wang Thonglang,10310,
-0000000111,890/12 Petchaburi Road,Bangkok,Ratchathewi,10400,
-0000000112,345/67 Pradit Manutham Road,Bangkok,Bang Kapi,10240,
-0000000113,678/90 Ramkhamhaeng Road,Bangkok,Huai Khwang,10310,
-0000000114,123/45 Chaeng Watthana Road,Bangkok,Pak Kret,11120,
-0000000115,901/23 Rama III Road,Bangkok,Yan Nawa,10120,
-0000000116,234/56 Phahonyothin Road,Bangkok,Chatuchak,10900,
-0000000117,567/89 Phetkasem Road,Bangkok,Nong Khaem,10160,
-0000000118,890/12 On Nut Road,Bangkok,Bangkok Yai,10160,
-0000000119,456/78 Rama V Road,Bangkok,Dusit,10300,
-0000000120,123/45 Phatthanakan Road,Bangkok,Suan Luang,10250,
-0000000121,789/12 Viphavadi Rangsit Road,Bangkok,Don Mueang,10210,
-0000000122,234/56 Rama IX Road,Bangkok,Huai Khwang,10310,
-0000000123,567/89 Nawamin Road,Bangkok,Bang Kapi,10240,
-0000000124,890/12 Bangna-Trad Road,Samut Prakan,Bang Phli,10540,
-0000000125,345/67 Suk Sawat Road,Samut Prakan,Phra Samut Chedi,10290,
-0000000126,678/90 Srinakarin Road,Samut Prakan,Mueang Samut Prakan,10270,
-0000000127,123/45 Pak Nam Road,Samut Prakan,Mueang Samut Prakan,10270,
-0000000128,901/23 Rama II Road,Samut Sakhon,Mueang Samut Sakhon,74000,
-0000000129,234/56 Mahachai Road,Samut Sakhon,Mueang Samut Sakhon,74000,
-0000000130,567/89 Rattanakosin Road,Samut Songkhram,Mueang Samut Songkhram,75000,
-0000000131,890/12 Petchkasem Road,Nakhon Pathom,Mueang Nakhon Pathom,73000,
-0000000132,456/78 Phutthamonthon Sai 4 Road,Nakhon Pathom,Sam Phran,73110,
-0000000133,123/45 Ratchadamnoen Road,Nakhon Pathom,Mueang Nakhon Pathom,73000,
-0000000134,789/12 Srisathong Road,Nakhon Pathom,Mueang Nakhon Pathom,73000,
-0000000135,234/56 Paholyothin Road,Pathum Thani,Lak Hok,12140,
-0000000136,567/89 Rangsit-Nakhon Nayok Road,Pathum Thani,Klong Luang,12120,
-0000000137,890/12 Tiwanon Road,Nonthaburi,Mueang Nonthaburi,11000,
-0000000138,345/67 Rattanathibet Road,Nonthaburi,Bang Kraso,11000,
-0000000139,678/90 Sukhapiban 2 Road,Nonthaburi,Bang Kruai,11130,
-0000000140,123/45 Ngamwongwan Road,Nonthaburi,Bang Khen,11000,
-0000000141,901/23 Chaengwattana Road,Nonthaburi,Pak Kret,11120,
-0000000142,234/56 Bang Yai Road,Nonthaburi,Bang Yai,11140,
-0000000143,567/89 Rama VI Road,Nonthaburi,Mueang Nonthaburi,11000,
-0000000144,890/12 Borommaratchachonnani Road,Nakhon Pathom,Mueang Nakhon Pathom,73000,
-0000000145,456/78 Charan Sanitwong Road,Bangkok,Bang Phlat,10700,
-0000000146,123/45 Ekamai-Ramintra Road,Bangkok,Laksi,10210,
-0000000147,789/12 Rama VII Road,Bangkok,Dusit,10300,
-0000000148,234/56 Pracha Chuen Road,Bangkok,Bang Sue,10800,
-0000000149,567/89 Ratchaphruek Road,Bangkok,Taling Chan,10170,
-0000000150,890/12 Phaholyothin 24 Alley,Bangkok,Chatuchak,10900,
-0000000151,345/67 Pibulsongkram Road,Bangkok,Dusit,10300,
-0000000152,678/90 Charoen Nakhon Road,Bangkok,Khlong San,10600,
-0000000153,123/45 Vibhavadi Rangsit Road,Bangkok,Chatuchak,10900,
-0000000154,901/23 Ratchapreuk Road,Bangkok,Taling Chan,10170,
-0000000155,234/56 Paholyothin 32 Alley,Bangkok,Laksi,10210,
-0000000156,567/89 Rama IV Road,Bangkok,Khlong Toei,10110,
-0000000157,890/12 Pracha Uthit Road,Bangkok,Bang Mod,10150,
-0000000158,456/78 Borommaratchachonnani Road,Nakhon Pathom,Mueang Nakhon Pathom,73000,
-0000000159,789/12 Sukhumvit Road,Bangkok,Watthana,10110,
-0000000160,234/56 Ratchaprasong Road,Bangkok,Pathum Wan,10330,
-0000000161,890/12 Ploenchit Road,Bangkok,Lumpini,10330,
-0000000162,456/78 Asoke Road,Bangkok,Khlong Toei,10110,
-0000000163,123/45 Charoen Nakorn Road,Bangkok,Khlong San,10600,
-0000000164,901/23 Rama IV Road,Bangkok,Khlong Toei,10110,
-0000000165,234/56 Wireless Road,Bangkok,Lumpini,10330,
-0000000166,567/89 Pahonyothin Road,Bangkok,Chatuchak,10900,
-0000000167,890/12 Rama II Road,Bangkok,Chom Thong,10150,
-0000000168,345/67 Rama IX Road,Bangkok,Huai Khwang,10310,
-0000000169,678/90 Phahonyothin 11 Alley,Bangkok,Chatuchak,10900,
-0000000170,123/45 Lat Krabang Road,Bangkok,Lat Krabang,10520,
-0000000171,901/23 Ram Intra Road,Bangkok,Khlong Sam Wa,10510,
-0000000172,234/56 Suvarnabhumi Airport,Bangkok,Nong Prue,10540,
-0000000173,567/89 Srinakarin Road,Bangkok,Bang Na,10260,
-0000000174,890/12 Rama V Road,Bangkok,Dusit,10300,
-0000000175,456/78 Bang Phlat Road,Bangkok,Bang Phlat,10700,
-0000000176,123/45 Bang Khun Thian-Chaitalay Road,Bangkok,Bang Khun Thian,10150,
-0000000177,789/12 Ramkhamhaeng Road,Bangkok,Huai Khwang,10310,
-0000000178,234/56 Charoen Krung 66 Alley,Bangkok,Bang Kho Laem,10120,
-0000000179,567/89 Kingkaew Road,Samut Prakan,Bang Phli,10540,
-0000000180,890/12 Soi Srinakarin 23,Samut Prakan,Mueang Samut Prakan,10270,
-0000000181,345/67 Phetkasem Road,Samut Prakan,Nong Khaem,10160,
-0000000182,678/90 Srinakarin-Klongdan Road,Samut Prakan,Bang Bo,10560,
-0000000183,901/23 Sanam Chai Road,Samut Sakhon,Mueang Samut Sakhon,74000,
-0000000184,234/56 Borommaratchachonnani Road,Nakhon Pathom,Mueang Nakhon Pathom,73000,
-0000000185,567/89 Buddhamonthon Sai 4 Road,Nakhon Pathom,Sam Phran,73110,
-0000000186,890/12 Rattanakosin Road,Nakhon Pathom,Mueang Nakhon Pathom,73000,
-0000000187,456/78 Suksawat Road,Samut Songkhram,Mueang Samut Songkhram,75000,
-0000000188,123/45 Petkasem Road,Nakhon Pathom,Mueang Nakhon Pathom,73000,
-0000000189,901/23 Rattanathibet Road,Nonthaburi,Bang Kraso,11000,
-0000000190,234/56 Ngamwongwan Road,Nonthaburi,Bang Khen,11000,
-0000000191,567/89 Tiwanon Road,Nonthaburi,Pak Kret,11120,
-0000000192,890/12 Chaengwattana Road,Nonthaburi,Pak Kret,11120,
-0000000193,345/67 Sukhothai Road,Nonthaburi,Mueang Nonthaburi,11000,
-0000000194,678/90 Maha Sawat Road,Nakhon Pathom,Mueang Nakhon Pathom,73000,
-0000000195,123/45 Ratchadapisek Road,Bangkok,Din Daeng,10400,
-0000000196,789/12 Asok-Din Daeng Road,Bangkok,Din Daeng,10400,
-0000000197,234/56 Boromphat Road,Bangkok,Pom Prap Sattru Phai,10100,
-0000000198,567/89 Charoen Krung 56 Alley,Bangkok,Bang Rak,10500,
-0000000199,890/12 Rama VII Bridge,Bangkok,Dusit,10300,
-0000000200,456/78 Phitsanulok Road,Bangkok,Dusit,10300,
-0000000201,123/45 Petchburi 19 Alley,Bangkok,Ratchathewi,10400,
-0000000202,901/23 Ratchadamnoen Nok Road,Bangkok,Phra Nakhon,10200,
-0000000203,234/56 Ratchaphruek Road,Bangkok,Taling Chan,10170,
-0000000204,567/89 Samsen Road,Bangkok,Dusit,10300,
-0000000205,890/12 Yotha Road,Bangkok,Dusit,10300,
-0000000206,345/67 Sanam Chai Road,Bangkok,Phra Nakhon,10200,
-0000000207,678/90 Phaholyothin Road,Bangkok,Bang Khen,10220,
-0000000208,901/23 Ratchadapisek Road,Bangkok,Din Daeng,10400,
-0000000209,234/56 Bang Sue Road,Bangkok,Bang Sue,10800,
-0000000210,567/89 Charansanitwong Road,Bangkok,Bang Kho Laem,10120,
-0000000211,890/12 Yaowarat Road,Bangkok,Samphanthawong,10100,
-0000000212,123/45 Patong Beach Road,Phuket,Kathu,83150,
-0000000213,789/12 Karon Beach Road,Phuket,Mueang Phuket,83100,
-0000000214,456/78 Rawai Beach Road,Phuket,Mueang Phuket,83100,
-0000000215,234/56 Kamala Beach Road,Phuket,Kathu,83120,
-0000000216,890/12 Surin Beach Road,Phuket,Mueang Phuket,83110,
-0000000217,567/89 Bang Tao Beach Road,Phuket,Thalang,83110,
-0000000218,321/54 Kata Beach Road,Phuket,Mueang Phuket,83100,
-0000000219,987/65 Nai Harn Beach Road,Phuket,Mueang Phuket,83100,
-0000000220,654/32 Mai Khao Beach Road,Phuket,Thalang,83110,
-0000000221,234/56 Chalong Beach Road,Phuket,Mueang Phuket,83130,
-0000000222,890/12 Panwa Beach Road,Phuket,Mueang Phuket,83000,
-0000000223,345/67 Cape Panwa Road,Phuket,Mueang Phuket,83000,
-0000000224,678/90 Ao Yon Beach Road,Phuket,Mueang Phuket,83000,
-0000000225,123/45 Ao Sane Beach Road,Phuket,Mueang Phuket,83100,
-0000000226,901/23 Nai Thon Beach Road,Phuket,Thalang,83110,
-0000000227,234/56 Laem Singh Viewpoint,Phuket,Mueang Phuket,83100,
-0000000228,567/89 Karon Viewpoint,Phuket,Mueang Phuket,83100,
-0000000229,890/12 Windmill Viewpoint,Phuket,Mueang Phuket,83100,
-0000000230,456/78 Black Rock Viewpoint,Phuket,Mueang Phuket,83100,
-0000000231,123/45 Monkey Hill,Phuket,Mueang Phuket,83000,
-0000000232,789/12 Big Buddha,Phuket,Mueang Phuket,83130,
-0000000233,234/56 Khao Rang Hill Viewpoint,Phuket,Mueang Phuket,83000,
-0000000234,567/89 Promthep Cape,Phuket,Mueang Phuket,83100,
-0000000235,890/12 Phuket FantaSea,Phuket,Kathu,83150,
-0000000236,345/67 Old Phuket Town,Phuket,Mueang Phuket,83000,
-0000000237,678/90 Freedom Beach,Phuket,Kathu,83150,
-0000000238,123/45 Paradise Beach,Phuket,Mueang Phuket,83150,
-0000000239,901/23 Coral Island,Phuket,Mueang Phuket,83000,
-0000000240,234/56 Nui Beach,Phuket,Mueang Phuket,83000,
-0000000241,567/89 Ya Nui Beach,Phuket,Mueang Phuket,83100,
-0000000242,890/12 Laem Singh Viewpoint,Phuket,Mueang Phuket,83000,
-0000000243,456/78 Kao Khad Views Tower,Phuket,Mueang Phuket,83000,
-0000000244,123/45 Ao Po Grand Marina,Phuket,Thalang,83110,
-0000000245,789/12 Sarasin Bridge,Phuket,Thalang,83110,
-0000000246,234/56 Sarasin Viewpoint,Phuket,Thalang,83110,
-0000000247,567/89 Bang Pae Waterfall,Phuket,Thalang,83110,
-0000000248,890/12 Ton Sai Waterfall,Phuket,Mueang Phuket,83000,
-0000000249,345/67 Khao Phra Thaeo National Park,Phuket,Thalang,83110,
-0000000250,678/90 Phang Nga Bay,Phuket,Thalang,83110,
-0000000251,901/23 Similan Islands,Phuket,Thalang,83110,
-0000000252,234/56 Phi Phi Islands,Phuket,Thalang,83110,
-0000000253,567/89 Banana Beach,Phuket,Mueang Phuket,83150,
-0000000254,890/12 Coconut Island,Phuket,Thalang,83110,
-0000000255,456/78 Raya Islands,Phuket,Mueang Phuket,83150,
-0000000256,123/45 Kamala Falls,Phuket,Kathu,83150,
-0000000257,789/12 Layan Beach,Phuket,Thalang,83110,
-0000000258,234/56 Paradise Koh Yao,Phuket,Thalang,83110,
-0000000259,567/89 Patong Mountain Viewpoint,Phuket,Kathu,83150,
-0000000260,890/12 Karon Temple Market,Phuket,Mueang Phuket,83100,
-0000000261,345/67 Kata Night Market,Phuket,Mueang Phuket,83100,
-0000000262,678/90 Chalong Pier,Phuket,Mueang Phuket,83130,
-0000000263,901/23 Phuket Aquarium,Phuket,Mueang Phuket,83000,
-0000000264,234/56 Baan Teelanka (The UpsideDown House),Phuket,Kathu,83150,
-0000000265,567/89 Phuket Bird Park,Phuket,Mueang Phuket,83000,
-0000000266,890/12 Dino Park Mini Golf,Phuket,Kathu,83150,
-0000000267,456/78 Surf House Phuket,Phuket,Kathu,83150,
-0000000268,123/45 Phuket Trickeye Museum,Phuket,Kathu,83150,
-0000000269,901/23 Thai Hua Museum,Phuket,Mueang Phuket,83000,
-0000000270,234/56 Phuket Mining Museum,Phuket,Kathu,83150,
-0000000271,789/12 Baan Chinpracha,Phuket,Mueang Phuket,83000,
-0000000272,345/67 Old Phuket Town Walking Street,Phuket,Mueang Phuket,83000,
-0000000273,678/90 Robinson Ocean Phuket,Phuket,Mueang Phuket,83000,
-0000000274,789/12 Phuket FantaSea,Phuket,Kathu,83150,
-0000000275,234/56 Bang Tao Beach Road,Phuket,Thalang,83110,
-0000000276,567/89 Cape Panwa Road,Phuket,Mueang Phuket,83000,
-0000000277,890/12 Ao Po Grand Marina,Phuket,Thalang,83110,
-0000000278,456/78 Laem Singh Viewpoint,Phuket,Mueang Phuket,83100,
-0000000279,123/45 Monkey Hill,Phuket,Mueang Phuket,83000,
-0000000280,901/23 Patong Mountain Viewpoint,Phuket,Kathu,83150,
-0000000281,234/56 Kata Beach Road,Phuket,Mueang Phuket,83100,
-0000000282,567/89 Nai Thon Beach Road,Phuket,Thalang,83110,
-0000000283,890/12 Rawai Beach Road,Phuket,Mueang Phuket,83100,
-0000000284,345/67 Ya Nui Beach,Phuket,Mueang Phuket,83100,
-0000000285,678/90 Old Phuket Town,Phuket,Mueang Phuket,83000,
-0000000286,123/45 Ao Yon Beach Road,Phuket,Mueang Phuket,83000,
-0000000287,789/12 Big Buddha,Phuket,Mueang Phuket,83130,
-0000000288,234/56 Karon Temple Market,Phuket,Mueang Phuket,83100,
-0000000289,567/89 Promthep Cape,Phuket,Mueang Phuket,83100,
-0000000290,890/12 Sarasin Viewpoint,Phuket,Thalang,83110,
-0000000291,456/78 Ton Sai Waterfall,Phuket,Mueang Phuket,83000,
-0000000292,123/45 Ao Sane Beach Road,Phuket,Mueang Phuket,83100,
-0000000293,901/23 Laem Singh Viewpoint,Phuket,Mueang Phuket,83000,
-0000000294,234/56 Ao Po Grand Marina,Phuket,Thalang,83110,
-0000000295,123/45 Rojana Road,Ayutthaya,Uthai,13000,
-0000000296,789/12 Naresuan Road,Ayutthaya,Phra Nakhon Si Ayutthaya,13000,
-0000000297,456/78 Pa Thong Road,Ayutthaya,Phra Nakhon Si Ayutthaya,13000,
-0000000298,234/56 Bang Ian Road,Ayutthaya,Uthai,13000,
-0000000299,890/12 Bang Pa-In Road,Ayutthaya,Bang Pa-In,13160,
-0000000300,567/89 Pa Thong Road,Ayutthaya,Phra Nakhon Si Ayutthaya,13000,
-0000000301,321/54 Rojana Road,Ayutthaya,Uthai,13000,
-0000000302,987/65 Bang Ian Road,Ayutthaya,Uthai,13000,
-0000000303,654/32 Phachi Road,Ayutthaya,Phachi,13120,
-0000000304,234/56 Bang Pa-In Road,Ayutthaya,Bang Pa-In,13160,
-0000000305,890/12 Rojana Road,Ayutthaya,Uthai,13000,
-0000000306,345/67 Naresuan Road,Ayutthaya,Phra Nakhon Si Ayutthaya,13000,
-0000000307,678/90 Phachi Road,Ayutthaya,Phachi,13120,
-0000000308,123/45 Bang Pa-In Road,Ayutthaya,Bang Pa-In,13160,
-0000000309,901/23 Bang Ian Road,Ayutthaya,Uthai,13000,
-0000000310,234/56 Naresuan Road,Ayutthaya,Phra Nakhon Si Ayutthaya,13000,
-0000000311,567/89 Bang Pa-In Road,Ayutthaya,Bang Pa-In,13160,
-0000000312,890/12 Rojana Road,Ayutthaya,Uthai,13000,
-0000000313,456/78 Bang Ian Road,Ayutthaya,Uthai,13000,
-0000000314,123/45 Phachi Road,Ayutthaya,Phachi,13120,
-0000000315,789/12 Rojana Road,Ayutthaya,Uthai,13000,
-0000000316,234/56 Bang Ian Road,Ayutthaya,Uthai,13000,
-0000000317,567/89 Pa Thong Road,Ayutthaya,Phra Nakhon Si Ayutthaya,13000,
-0000000318,890/12 Naresuan Road,Ayutthaya,Phra Nakhon Si Ayutthaya,13000,
-0000000319,345/67 Phachi Road,Ayutthaya,Phachi,13120,
-0000000320,678/90 Bang Ian Road,Ayutthaya,Uthai,13000,
-0000000321,901/23 Bang Pa-In Road,Ayutthaya,Bang Pa-In,13160,
-0000000322,234/56 Rojana Road,Ayutthaya,Uthai,13000,
-0000000323,567/89 Pa Thong Road,Ayutthaya,Phra Nakhon Si Ayutthaya,13000,
-0000000324,890/12 Bang Ian Road,Ayutthaya,Uthai,13000,
-0000000325,456/78 Rojana Road,Ayutthaya,Uthai,13000,
-0000000326,123/45 Naresuan Road,Ayutthaya,Phra Nakhon Si Ayutthaya,13000,
-0000000327,789/12 Bang Pa-In Road,Ayutthaya,Bang Pa-In,13160,
-0000000328,234/56 Phachi Road,Ayutthaya,Phachi,13120,
-0000000329,567/89 Bang Ian Road,Ayutthaya,Uthai,13000,
-0000000330,890/12 Rojana Road,Ayutthaya,Uthai,13000,
-0000000331,345/67 Naresuan Road,Ayutthaya,Phra Nakhon Si Ayutthaya,13000,
-0000000332,678/90 Pa Thong Road,Ayutthaya,Phra Nakhon Si Ayutthaya,13000,
-0000000333,901/23 Phachi Road,Ayutthaya,Phachi,13120,
-0000000334,234/56 Bang Pa-In Road,Ayutthaya,Bang Pa-In,13160,
-0000000335,567/89 Rojana Road,Ayutthaya,Uthai,13000,
-0000000336,890/12 Bang Ian Road,Ayutthaya,Uthai,13000,
-0000000337,456/78 Naresuan Road,Ayutthaya,Phra Nakhon Si Ayutthaya,13000,
-0000000338,123/45 Phachi Road,Ayutthaya,Phachi,13120,
-0000000339,789/12 Bang Pa-In Road,Ayutthaya,Bang Pa-In,13160,
-0000000340,234/56 Pa Thong Road,Ayutthaya,Phra Nakhon Si Ayutthaya,13000,
-0000000341,567/89 Bang Ian Road,Ayutthaya,Uthai,13000,
-0000000342,890/12 Rojana Road,Ayutthaya,Uthai,13000,
-0000000343,345/67 Phachi Road,Ayutthaya,Phachi,13120,
-0000000344,678/90 Bang Pa-In Road,Ayutthaya,Bang Pa-In,13160,
-0000000345,901/23 Naresuan Road,Ayutthaya,Phra Nakhon Si Ayutthaya,13000,
-0000000346,234/56 Pa Thong Road,Ayutthaya,Phra Nakhon Si Ayutthaya,13000,
-0000000347,567/89 Bang Ian Road,Ayutthaya,Uthai,13000,
-0000000348,890/12 Rojana Road,Ayutthaya,Uthai,13000,
-0000000349,456/78 Bang Pa-In Road,Ayutthaya,Bang Pa-In,13160,
-0000000350,123/45 Phachi Road,Ayutthaya,Phachi,13120,
-0000000351,789/12 Naresuan Road,Ayutthaya,Phra Nakhon Si Ayutthaya,13000,
-0000000352,234/56 Bang Pa-In Road,Ayutthaya,Bang Pa-In,13160,
-0000000353,567/89 Rojana Road,Ayutthaya,Uthai,13000,
-0000000354,890/12 Pa Thong Road,Ayutthaya,Phra Nakhon Si Ayutthaya,13000,
-0000000355,345/67 Bang Ian Road,Ayutthaya,Uthai,13000,
-0000000356,678/90 Phachi Road,Ayutthaya,Phachi,13120,
-0000000357,901/23 Naresuan Road,Ayutthaya,Phra Nakhon Si Ayutthaya,13000,
-0000000358,234/56 Bang Pa-In Road,Ayutthaya,Bang Pa-In,13160,
-0000000359,567/89 Rojana Road,Ayutthaya,Uthai,13000,
-0000000360,890/12 Pa Thong Road,Ayutthaya,Phra Nakhon Si Ayutthaya,13000,
-0000000361,456/78 Bang Ian Road,Ayutthaya,Uthai,13000,
-0000000362,123/45 Phachi Road,Ayutthaya,Phachi,13120,
-0000000363,789/12 Naresuan Road,Ayutthaya,Phra Nakhon Si Ayutthaya,13000,
-0000000364,234/56 Bang Pa-In Road,Ayutthaya,Bang Pa-In,13160,
-0000000365,567/89 Rojana Road,Ayutthaya,Uthai,13000,
-0000000366,890/12 Pa Thong Road,Ayutthaya,Phra Nakhon Si Ayutthaya,13000,
-0000000367,345/67 Bang Ian Road,Ayutthaya,Uthai,13000,
-0000000368,678/90 Phachi Road,Ayutthaya,Phachi,13120,
-0000000369,901/23 Naresuan Road,Ayutthaya,Phra Nakhon Si Ayutthaya,13000,
-0000000370,234/56 Bang Pa-In Road,Ayutthaya,Bang Pa-In,13160,
-0000000371,567/89 Rojana Road,Ayutthaya,Uthai,13000,
-0000000372,890/12 Pa Thong Road,Ayutthaya,Phra Nakhon Si Ayutthaya,13000,
-0000000373,456/78 Bang Ian Road,Ayutthaya,Uthai,13000,
-0000000374,123/45 Phachi Road,Ayutthaya,Phachi,13120,
-0000000375,789/12 Naresuan Road,Ayutthaya,Phra Nakhon Si Ayutthaya,13000,
-0000000376,123/45 Pattaya Beach Road,Chon Buri,Bang Lamung,20150,
-0000000377,789/12 Jomtien Beach Road,Chon Buri,Bang Lamung,20150,
-0000000378,456/78 Naklua Road,Chon Buri,Bang Lamung,20150,
-0000000379,234/56 Central Pattaya Road,Chon Buri,Bang Lamung,20150,
-0000000380,890/12 Sukhumvit Road,Chon Buri,Sattahip,20250,
-0000000381,567/89 Sriracha Nakorn Road,Chon Buri,Sriracha,20110,
-0000000382,321/54 Laem Chabang Industrial Estate,Chon Buri,Sriracha,20230,
-0000000383,987/65 Mueang Chon Buri Road,Chon Buri,Mueang Chon Buri,20000,
-0000000384,654/32 Bang Saen Lang Road,Chon Buri,Mueang Chon Buri,20130,
-0000000385,234/56 Nong Mon Market Road,Chon Buri,Mueang Chon Buri,20000,
-0000000386,890/12 Si Racha Nakorn Road,Chon Buri,Sriracha,20110,
-0000000387,345/67 Khao Kheow Open Zoo,Chon Buri,Sriracha,20250,
-0000000388,678/90 Khlong Tamru,Chon Buri,Bang Lamung,20150,
-0000000389,123/45 Ban Bueng Road,Chon Buri,Ban Bueng,20170,
-0000000390,901/23 Bang Saen Beach Road,Chon Buri,Sattahip,20250,
-0000000391,234/56 Nong Yai Road,Chon Buri,Sattahip,20250,
-0000000392,567/89 Bang Phra Reservoir,Chon Buri,Sriracha,20110,
-0000000393,890/12 Bo Win Sub-district,Chon Buri,Sriracha,20110,
-0000000394,456/78 Nong Prue Sub-district,Chon Buri,Bang Lamung,20150,
-0000000395,123/45 Khao Maikaew,Chon Buri,Sattahip,20250,
-0000000396,789/12 Bang Lamung,Chon Buri,Bang Lamung,20150,
-0000000397,234/56 Ko Sichang,Chon Buri,Ko Sichang,20000,
-0000000398,567/89 Bang Saen Lang Beach,Chon Buri,Sattahip,20250,
-0000000399,890/12 Si Racha District Office,Chon Buri,Sriracha,20110,
-0000000400,345/67 Laem Chabang Port,Chon Buri,Sriracha,20230,
-0000000401,678/90 Nong Chak,Chon Buri,Mueang Chon Buri,20000,
-0000000402,901/23 Nong Irun,Chon Buri,Mueang Chon Buri,20000,
-0000000403,234/56 Ban Suan,Chon Buri,Sattahip,20250,
-0000000404,567/89 Bang Saen,Chon Buri,Sattahip,20250,
-0000000405,890/12 Bo Thong,Chon Buri,Sattahip,20250,
-0000000406,456/78 Ban Chang,Chon Buri,Ban Chang,20150,
-0000000407,123/45 Phan Thong,Chon Buri,Phan Thong,20140,
-0000000408,789/12 Ko Loi,Chon Buri,Sriracha,20110,
-0000000409,234/56 Sattahip Naval Base,Chon Buri,Sattahip,20250,
-0000000410,567/89 Nong Kham,Chon Buri,Sriracha,20110,
-0000000411,890/12 Phanat Nikhom,Chon Buri,Phanat Nikhom,20140,
-0000000412,345/67 Nong Yai,Chon Buri,Sattahip,20250,
-0000000413,678/90 Ban Bueng,Chon Buri,Ban Bueng,20170,
-0000000414,901/23 Ko Lan,Chon Buri,Sattahip,20250,
-0000000415,234/56 Bang Lamung Hospital,Chon Buri,Bang Lamung,20150,
-0000000416,567/89 Nong Pla Lai,Chon Buri,Bang Lamung,20150,
-0000000417,890/12 Nong Khor,Chon Buri,Mueang Chon Buri,20000,
-0000000418,456/78 Ban Suan,Chon Buri,Ban Bueng,20170,
-0000000419,123/45 Mueang Chon Buri,Chon Buri,Mueang Chon Buri,20000,
-0000000420,789/12 Nong Irun,Chon Buri,Mueang Chon Buri,20000,
-0000000421,234/56 Phan Thong,Chon Buri,Phan Thong,20140,
-0000000422,567/89 Sattahip,Chon Buri,Sattahip,20250,
-0000000423,890/12 Ban Chang,Chon Buri,Ban Chang,20150,
-0000000424,345/67 Si Racha,Chon Buri,Sriracha,20110,
-0000000425,678/90 Bang Lamung,Chon Buri,Bang Lamung,20150,
-0000000426,901/23 Sattahip Naval Base,Chon Buri,Sattahip,20250,
-0000000427,234/56 Ban Suan,Chon Buri,Ban Bueng,20170,
-0000000428,567/89 Ko Lan,Chon Buri,Sattahip,20250,
-0000000429,890/12 Ban Bueng,Chon Buri,Ban Bueng,20170,
-0000000430,456/78 Bang Lamung Hospital,Chon Buri,Bang Lamung,20150,
-0000000431,123/45 Nong Pla Lai,Chon Buri,Bang Lamung,20150,
-0000000432,789/12 Nong Khor,Chon Buri,Mueang Chon Buri,20000,
-0000000433,234/56 Ban Suan,Chon Buri,Ban Bueng,20170,
-0000000434,567/89 Nong Pla Lai,Chon Buri,Bang Lamung,20150,
-0000000435,890/12 Nong Khor,Chon Buri,Mueang Chon Buri,20000,
-0000000436,345/67 Ban Bueng,Chon Buri,Ban Bueng,20170,
-0000000437,678/90 Mueang Chon Buri,Chon Buri,Mueang Chon Buri,20000,
-0000000438,901/23 Nong Irun,Chon Buri,Mueang Chon Buri,20000,
-0000000439,234/56 Phan Thong,Chon Buri,Phan Thong,20140,
-0000000440,567/89 Sattahip,Chon Buri,Sattahip,20250,
-0000000441,890/12 Ban Chang,Chon Buri,Ban Chang,20150,
-0000000442,456/78 Si Racha,Chon Buri,Sriracha,20110,
-0000000443,123/45 Bang Lamung,Chon Buri,Bang Lamung,20150,
-0000000444,789/12 Sattahip Naval Base,Chon Buri,Sattahip,20250,
-0000000445,234/56 Ban Suan,Chon Buri,Ban Bueng,20170,
-0000000446,567/89 Ko Lan,Chon Buri,Sattahip,20250,
-0000000447,890/12 Bang Lamung,Chon Buri,Bang Lamung,20150,
-0000000448,345/67 Mueang Chon Buri,Chon Buri,Mueang Chon Buri,20000,
-0000000449,678/90 Nong Irun,Chon Buri,Mueang Chon Buri,20000,
-0000000450,901/23 Phan Thong,Chon Buri,Phan Thong,20140,
-0000000451,234/56 Sattahip,Chon Buri,Sattahip,20250,
-0000000452,567/89 Ban Chang,Chon Buri,Ban Chang,20150,
-0000000453,890/12 Si Racha,Chon Buri,Sriracha,20110,
-0000000454,456/78 Bang Lamung,Chon Buri,Bang Lamung,20150,
-0000000455,123/45 Sattahip Naval Base,Chon Buri,Sattahip,20250,
-0000000456,789/12 Ban Suan,Chon Buri,Ban Bueng,20170,
-0000000457,234/56 Ko Lan,Chon Buri,Sattahip,20250,
-0000000458,567/89 Bang Lamung,Chon Buri,Bang Lamung,20150,
-0000000459,890/12 Ban Bueng,Chon Buri,Ban Bueng,20170,
-0000000460,345/67 Bang Lamung Hospital,Chon Buri,Bang Lamung,20150,
-0000000461,678/90 Nong Pla Lai,Chon Buri,Bang Lamung,20150,
-0000000462,901/23 Nong Khor,Chon Buri,Mueang Chon Buri,20000,
-0000000463,234/56 Ban Suan,Chon Buri,Ban Bueng,20170,
-0000000464,567/89 Nong Pla Lai,Chon Buri,Bang Lamung,20150,
-0000000465,890/12 Nong Khor,Chon Buri,Mueang Chon Buri,20000,
-0000000466,345/67 Ban Bueng,Chon Buri,Ban Bueng,20170,
-0000000467,678/90 Mueang Chon Buri,Chon Buri,Mueang Chon Buri,20000,
-0000000468,901/23 Nong Irun,Chon Buri,Mueang Chon Buri,20000,
-0000000469,234/56 Phan Thong,Chon Buri,Phan Thong,20140,
-0000000470,567/89 Sattahip,Chon Buri,Sattahip,20250,
-0000000471,890/12 Ban Chang,Chon Buri,Ban Chang,20150,
-0000000472,456/78 Si Racha,Chon Buri,Sriracha,20110,
-0000000473,123/45 Bang Lamung,Chon Buri,Bang Lamung,20150,
-0000000474,789/12 Sattahip Naval Base,Chon Buri,Sattahip,20250,
-0000000475,234/56 Ban Suan,Chon Buri,Ban Bueng,20170,
-0000000476,567/89 Ko Lan,Chon Buri,Sattahip,20250,
-0000000477,890/12 Bang Lamung,Chon Buri,Bang Lamung,20150,
-0000000478,345/67 Mueang Chon Buri,Chon Buri,Mueang Chon Buri,20000,
-0000000479,678/90 Nong Irun,Chon Buri,Mueang Chon Buri,20000,
-0000000480,901/23 Phan Thong,Chon Buri,Phan Thong,20140,
-0000000481,234/56 Sattahip,Chon Buri,Sattahip,20250,
-0000000482,567/89 Ban Chang,Chon Buri,Ban Chang,20150,
-0000000483,890/12 Si Racha,Chon Buri,Sriracha,20110,
-0000000484,456/78 Bang Lamung,Chon Buri,Bang Lamung,20150,
-0000000485,123/45 Sattahip Naval Base,Chon Buri,Sattahip,20250,
-0000000486,789/12 Ban Suan,Chon Buri,Ban Bueng,20170,
-0000000487,234/56 Ko Lan,Chon Buri,Sattahip,20250,
-0000000488,567/89 Bang Lamung,Chon Buri,Bang Lamung,20150,
-0000000489,890/12 Ban Bueng,Chon Buri,Ban Bueng,20170,
-0000000490,345/67 Bang Lamung Hospital,Chon Buri,Bang Lamung,20150,
-0000000491,678/90 Nong Pla Lai,Chon Buri,Bang Lamung,20150,
-0000000492,901/23 Nong Khor,Chon Buri,Mueang Chon Buri,20000,
-0000000493,234/56 Ban Suan,Chon Buri,Ban Bueng,20170,
-0000000494,567/89 Nong Pla Lai,Chon Buri,Bang Lamung,20150,
-0000000495,890/12 Nong Khor,Chon Buri,Mueang Chon Buri,20000,
-0000000496,345/67 Ban Bueng,Chon Buri,Ban Bueng,20170,
-0000000497,678/90 Mueang Chon Buri,Chon Buri,Mueang Chon Buri,20000,
-0000000498,901/23 Nong Irun,Chon Buri,Mueang Chon Buri,20000,
-0000000499,123/45 Nimmanhaemin Road,Chiang Mai,Mueang Chiang Mai,50200,
-0000000500,789/12 Tha Phae Road,Chiang Mai,Mueang Chiang Mai,50100,
+0000000101,123/45 Sukhumvit Road,Bangkok,Klongtoey,10110,9838370085
+0000000102,789/12 Ratchadapisek Road,Bangkok,Din Daeng,10400,8612816448
+0000000103,456/78 Sathon Road,Bangkok,Sathon,10120,2218763373
+0000000104,234/56 Silom Road,Bangkok,Bang Rak,10500,1348946149
+0000000105,890/12 Wireless Road,Bangkok,Pathum Wan,10330,4785668846
+0000000106,567/89 Charoen Krung Road,Bangkok,Bang Kho Laem,10120,5694398233
+0000000107,321/54 Rama IV Road,Bangkok,Khlong Toei,10110,7769801531
+0000000108,987/65 Phloen Chit Road,Bangkok,Lumphini,10330,6788508425
+0000000109,654/32 Rama I Road,Bangkok,Pathum Wan,10330,4272044393
+0000000110,234/56 Lat Phrao Road,Bangkok,Wang Thonglang,10310,5332387725
+0000000111,890/12 Petchaburi Road,Bangkok,Ratchathewi,10400,8178075569
+0000000112,345/67 Pradit Manutham Road,Bangkok,Bang Kapi,10240,3027592917
+0000000113,678/90 Ramkhamhaeng Road,Bangkok,Huai Khwang,10310,6239590728
+0000000114,123/45 Chaeng Watthana Road,Bangkok,Pak Kret,11120,7691696341
+0000000115,901/23 Rama III Road,Bangkok,Yan Nawa,10120,3588323728
+0000000116,234/56 Phahonyothin Road,Bangkok,Chatuchak,10900,4591863742
+0000000117,567/89 Phetkasem Road,Bangkok,Nong Khaem,10160,3604393884
+0000000118,890/12 On Nut Road,Bangkok,Bangkok Yai,10160,7791741863
+0000000119,456/78 Rama V Road,Bangkok,Dusit,10300,8729502638
+0000000120,123/45 Phatthanakan Road,Bangkok,Suan Luang,10250,7281070024
+0000000121,789/12 Viphavadi Rangsit Road,Bangkok,Don Mueang,10210,7986173239
+0000000122,234/56 Rama IX Road,Bangkok,Huai Khwang,10310,1575981312
+0000000123,567/89 Nawamin Road,Bangkok,Bang Kapi,10240,6085751398
+0000000124,890/12 Bangna-Trad Road,Samut Prakan,Bang Phli,10540,1699343204
+0000000125,345/67 Suk Sawat Road,Samut Prakan,Phra Samut Chedi,10290,6196624672
+0000000126,678/90 Srinakarin Road,Samut Prakan,Mueang Samut Prakan,10270,2107504710
+0000000127,123/45 Pak Nam Road,Samut Prakan,Mueang Samut Prakan,10270,2099059600
+0000000128,901/23 Rama II Road,Samut Sakhon,Mueang Samut Sakhon,74000,6047710357
+0000000129,234/56 Mahachai Road,Samut Sakhon,Mueang Samut Sakhon,74000,4517365947
+0000000130,567/89 Rattanakosin Road,Samut Songkhram,Mueang Samut Songkhram,75000,6606974982
+0000000131,890/12 Petchkasem Road,Nakhon Pathom,Mueang Nakhon Pathom,73000,7622387943
+0000000132,456/78 Phutthamonthon Sai 4 Road,Nakhon Pathom,Sam Phran,73110,8975667602
+0000000133,123/45 Ratchadamnoen Road,Nakhon Pathom,Mueang Nakhon Pathom,73000,1242190455
+0000000134,789/12 Srisathong Road,Nakhon Pathom,Mueang Nakhon Pathom,73000,5411993049
+0000000135,234/56 Paholyothin Road,Pathum Thani,Lak Hok,12140,5461025358
+0000000136,567/89 Rangsit-Nakhon Nayok Road,Pathum Thani,Klong Luang,12120,3798691746
+0000000137,890/12 Tiwanon Road,Nonthaburi,Mueang Nonthaburi,11000,5305825872
+0000000138,345/67 Rattanathibet Road,Nonthaburi,Bang Kraso,11000,9758685573
+0000000139,678/90 Sukhapiban 2 Road,Nonthaburi,Bang Kruai,11130,5107346621
+0000000140,123/45 Ngamwongwan Road,Nonthaburi,Bang Khen,11000,4312338405
+0000000141,901/23 Chaengwattana Road,Nonthaburi,Pak Kret,11120,3096263187
+0000000142,234/56 Bang Yai Road,Nonthaburi,Bang Yai,11140,6851029318
+0000000143,567/89 Rama VI Road,Nonthaburi,Mueang Nonthaburi,11000,7671724819
+0000000144,890/12 Borommaratchachonnani Road,Nakhon Pathom,Mueang Nakhon Pathom,73000,3538452785
+0000000145,456/78 Charan Sanitwong Road,Bangkok,Bang Phlat,10700,6954882850
+0000000146,123/45 Ekamai-Ramintra Road,Bangkok,Laksi,10210,2647332270
+0000000147,789/12 Rama VII Road,Bangkok,Dusit,10300,1463044179
+0000000148,234/56 Pracha Chuen Road,Bangkok,Bang Sue,10800,8018811091
+0000000149,567/89 Ratchaphruek Road,Bangkok,Taling Chan,10170,9944891695
+0000000150,890/12 Phaholyothin 24 Alley,Bangkok,Chatuchak,10900,1387572517
+0000000151,345/67 Pibulsongkram Road,Bangkok,Dusit,10300,8634789851
+0000000152,678/90 Charoen Nakhon Road,Bangkok,Khlong San,10600,5756648678
+0000000153,123/45 Vibhavadi Rangsit Road,Bangkok,Chatuchak,10900,6101361416
+0000000154,901/23 Ratchapreuk Road,Bangkok,Taling Chan,10170,8376501032
+0000000155,234/56 Paholyothin 32 Alley,Bangkok,Laksi,10210,5489079474
+0000000156,567/89 Rama IV Road,Bangkok,Khlong Toei,10110,6816867447
+0000000157,890/12 Pracha Uthit Road,Bangkok,Bang Mod,10150,2114198134
+0000000158,456/78 Borommaratchachonnani Road,Nakhon Pathom,Mueang Nakhon Pathom,73000,2864733932
+0000000159,789/12 Sukhumvit Road,Bangkok,Watthana,10110,1072364158
+0000000160,234/56 Ratchaprasong Road,Bangkok,Pathum Wan,10330,1948829093
+0000000161,890/12 Ploenchit Road,Bangkok,Lumpini,10330,8711216096
+0000000162,456/78 Asoke Road,Bangkok,Khlong Toei,10110,9953522293
+0000000163,123/45 Charoen Nakorn Road,Bangkok,Khlong San,10600,8626919078
+0000000164,901/23 Rama IV Road,Bangkok,Khlong Toei,10110,8117854825
+0000000165,234/56 Wireless Road,Bangkok,Lumpini,10330,9749288067
+0000000166,567/89 Pahonyothin Road,Bangkok,Chatuchak,10900,7288797545
+0000000167,890/12 Rama II Road,Bangkok,Chom Thong,10150,6123688474
+0000000168,345/67 Rama IX Road,Bangkok,Huai Khwang,10310,9655154222
+0000000169,678/90 Phahonyothin 11 Alley,Bangkok,Chatuchak,10900,5561188077
+0000000170,123/45 Lat Krabang Road,Bangkok,Lat Krabang,10520,1977298274
+0000000171,901/23 Ram Intra Road,Bangkok,Khlong Sam Wa,10510,2181275425
+0000000172,234/56 Suvarnabhumi Airport,Bangkok,Nong Prue,10540,6957782369
+0000000173,567/89 Srinakarin Road,Bangkok,Bang Na,10260,2164039514
+0000000174,890/12 Rama V Road,Bangkok,Dusit,10300,6484195811
+0000000175,456/78 Bang Phlat Road,Bangkok,Bang Phlat,10700,8003708963
+0000000176,123/45 Bang Khun Thian-Chaitalay Road,Bangkok,Bang Khun Thian,10150,4184883628
+0000000177,789/12 Ramkhamhaeng Road,Bangkok,Huai Khwang,10310,6185440858
+0000000178,234/56 Charoen Krung 66 Alley,Bangkok,Bang Kho Laem,10120,9348644313
+0000000179,567/89 Kingkaew Road,Samut Prakan,Bang Phli,10540,8975406217
+0000000180,890/12 Soi Srinakarin 23,Samut Prakan,Mueang Samut Prakan,10270,2856992633
+0000000181,345/67 Phetkasem Road,Samut Prakan,Nong Khaem,10160,7733354077
+0000000182,678/90 Srinakarin-Klongdan Road,Samut Prakan,Bang Bo,10560,1156267587
+0000000183,901/23 Sanam Chai Road,Samut Sakhon,Mueang Samut Sakhon,74000,5133416368
+0000000184,234/56 Borommaratchachonnani Road,Nakhon Pathom,Mueang Nakhon Pathom,73000,8502978163
+0000000185,567/89 Buddhamonthon Sai 4 Road,Nakhon Pathom,Sam Phran,73110,7459827988
+0000000186,890/12 Rattanakosin Road,Nakhon Pathom,Mueang Nakhon Pathom,73000,3386648306
+0000000187,456/78 Suksawat Road,Samut Songkhram,Mueang Samut Songkhram,75000,7751567292
+0000000188,123/45 Petkasem Road,Nakhon Pathom,Mueang Nakhon Pathom,73000,4425746000
+0000000189,901/23 Rattanathibet Road,Nonthaburi,Bang Kraso,11000,8283778171
+0000000190,234/56 Ngamwongwan Road,Nonthaburi,Bang Khen,11000,8439753307
+0000000191,567/89 Tiwanon Road,Nonthaburi,Pak Kret,11120,5896546500
+0000000192,890/12 Chaengwattana Road,Nonthaburi,Pak Kret,11120,3796919652
+0000000193,345/67 Sukhothai Road,Nonthaburi,Mueang Nonthaburi,11000,5939504770
+0000000194,678/90 Maha Sawat Road,Nakhon Pathom,Mueang Nakhon Pathom,73000,5034048110
+0000000195,123/45 Ratchadapisek Road,Bangkok,Din Daeng,10400,1325929922
+0000000196,789/12 Asok-Din Daeng Road,Bangkok,Din Daeng,10400,3976694394
+0000000197,234/56 Boromphat Road,Bangkok,Pom Prap Sattru Phai,10100,2259403202
+0000000198,567/89 Charoen Krung 56 Alley,Bangkok,Bang Rak,10500,6598456274
+0000000199,890/12 Rama VII Bridge,Bangkok,Dusit,10300,4754897843
+0000000200,456/78 Phitsanulok Road,Bangkok,Dusit,10300,5811560332
+0000000201,123/45 Petchburi 19 Alley,Bangkok,Ratchathewi,10400,3925886859
+0000000202,901/23 Ratchadamnoen Nok Road,Bangkok,Phra Nakhon,10200,3051753932
+0000000203,234/56 Ratchaphruek Road,Bangkok,Taling Chan,10170,3953731106
+0000000204,567/89 Samsen Road,Bangkok,Dusit,10300,5837812931
+0000000205,890/12 Yotha Road,Bangkok,Dusit,10300,3272815744
+0000000206,345/67 Sanam Chai Road,Bangkok,Phra Nakhon,10200,3004644056
+0000000207,678/90 Phaholyothin Road,Bangkok,Bang Khen,10220,2679142953
+0000000208,901/23 Ratchadapisek Road,Bangkok,Din Daeng,10400,8999056265
+0000000209,234/56 Bang Sue Road,Bangkok,Bang Sue,10800,6987582378
+0000000210,567/89 Charansanitwong Road,Bangkok,Bang Kho Laem,10120,6474632802
+0000000211,890/12 Yaowarat Road,Bangkok,Samphanthawong,10100,5749492103
+0000000212,123/45 Patong Beach Road,Phuket,Kathu,83150,8152523372
+0000000213,789/12 Karon Beach Road,Phuket,Mueang Phuket,83100,9988637710
+0000000214,456/78 Rawai Beach Road,Phuket,Mueang Phuket,83100,2983193560
+0000000215,234/56 Kamala Beach Road,Phuket,Kathu,83120,6638916284
+0000000216,890/12 Surin Beach Road,Phuket,Mueang Phuket,83110,6556021448
+0000000217,567/89 Bang Tao Beach Road,Phuket,Thalang,83110,4905720676
+0000000218,321/54 Kata Beach Road,Phuket,Mueang Phuket,83100,2736696741
+0000000219,987/65 Nai Harn Beach Road,Phuket,Mueang Phuket,83100,5631702743
+0000000220,654/32 Mai Khao Beach Road,Phuket,Thalang,83110,4197742204
+0000000221,234/56 Chalong Beach Road,Phuket,Mueang Phuket,83130,3173650187
+0000000222,890/12 Panwa Beach Road,Phuket,Mueang Phuket,83000,1176932977
+0000000223,345/67 Cape Panwa Road,Phuket,Mueang Phuket,83000,4149696127
+0000000224,678/90 Ao Yon Beach Road,Phuket,Mueang Phuket,83000,4363225206
+0000000225,123/45 Ao Sane Beach Road,Phuket,Mueang Phuket,83100,8302872560
+0000000226,901/23 Nai Thon Beach Road,Phuket,Thalang,83110,9054480143
+0000000227,234/56 Laem Singh Viewpoint,Phuket,Mueang Phuket,83100,3372074804
+0000000228,567/89 Karon Viewpoint,Phuket,Mueang Phuket,83100,3461109751
+0000000229,890/12 Windmill Viewpoint,Phuket,Mueang Phuket,83100,9325793994
+0000000230,456/78 Black Rock Viewpoint,Phuket,Mueang Phuket,83100,5468092463
+0000000231,123/45 Monkey Hill,Phuket,Mueang Phuket,83000,9933515054
+0000000232,789/12 Big Buddha,Phuket,Mueang Phuket,83130,6875947149
+0000000233,234/56 Khao Rang Hill Viewpoint,Phuket,Mueang Phuket,83000,4681362952
+0000000234,567/89 Promthep Cape,Phuket,Mueang Phuket,83100,9642182490
+0000000235,890/12 Phuket FantaSea,Phuket,Kathu,83150,4876238391
+0000000236,345/67 Old Phuket Town,Phuket,Mueang Phuket,83000,6193707070
+0000000237,678/90 Freedom Beach,Phuket,Kathu,83150,6002034957
+0000000238,123/45 Paradise Beach,Phuket,Mueang Phuket,83150,4167104742
+0000000239,901/23 Coral Island,Phuket,Mueang Phuket,83000,5401063290
+0000000240,234/56 Nui Beach,Phuket,Mueang Phuket,83000,9598003495
+0000000241,567/89 Ya Nui Beach,Phuket,Mueang Phuket,83100,5802513150
+0000000242,890/12 Laem Singh Viewpoint,Phuket,Mueang Phuket,83000,7727123113
+0000000243,456/78 Kao Khad Views Tower,Phuket,Mueang Phuket,83000,6038988564
+0000000244,123/45 Ao Po Grand Marina,Phuket,Thalang,83110,4289175245
+0000000245,789/12 Sarasin Bridge,Phuket,Thalang,83110,3192919982
+0000000246,234/56 Sarasin Viewpoint,Phuket,Thalang,83110,5712261006
+0000000247,567/89 Bang Pae Waterfall,Phuket,Thalang,83110,9683040183
+0000000248,890/12 Ton Sai Waterfall,Phuket,Mueang Phuket,83000,8467510022
+0000000249,345/67 Khao Phra Thaeo National Park,Phuket,Thalang,83110,8422196247
+0000000250,678/90 Phang Nga Bay,Phuket,Thalang,83110,6025086070
+0000000251,901/23 Similan Islands,Phuket,Thalang,83110,4301294793
+0000000252,234/56 Phi Phi Islands,Phuket,Thalang,83110,5161345173
+0000000253,567/89 Banana Beach,Phuket,Mueang Phuket,83150,6467115850
+0000000254,890/12 Coconut Island,Phuket,Thalang,83110,2025360475
+0000000255,456/78 Raya Islands,Phuket,Mueang Phuket,83150,4002835868
+0000000256,123/45 Kamala Falls,Phuket,Kathu,83150,7376983514
+0000000257,789/12 Layan Beach,Phuket,Thalang,83110,2938902507
+0000000258,234/56 Paradise Koh Yao,Phuket,Thalang,83110,2948715348
+0000000259,567/89 Patong Mountain Viewpoint,Phuket,Kathu,83150,7639826581
+0000000260,890/12 Karon Temple Market,Phuket,Mueang Phuket,83100,9003410896
+0000000261,345/67 Kata Night Market,Phuket,Mueang Phuket,83100,9546186303
+0000000262,678/90 Chalong Pier,Phuket,Mueang Phuket,83130,4734315971
+0000000263,901/23 Phuket Aquarium,Phuket,Mueang Phuket,83000,2928557967
+0000000264,234/56 Baan Teelanka (The UpsideDown House),Phuket,Kathu,83150,2644710133
+0000000265,567/89 Phuket Bird Park,Phuket,Mueang Phuket,83000,6957910147
+0000000266,890/12 Dino Park Mini Golf,Phuket,Kathu,83150,9221894371
+0000000267,456/78 Surf House Phuket,Phuket,Kathu,83150,3408967717
+0000000268,123/45 Phuket Trickeye Museum,Phuket,Kathu,83150,9086865348
+0000000269,901/23 Thai Hua Museum,Phuket,Mueang Phuket,83000,4054269266
+0000000270,234/56 Phuket Mining Museum,Phuket,Kathu,83150,1457200825
+0000000271,789/12 Baan Chinpracha,Phuket,Mueang Phuket,83000,2294505608
+0000000272,345/67 Old Phuket Town Walking Street,Phuket,Mueang Phuket,83000,4269928701
+0000000273,678/90 Robinson Ocean Phuket,Phuket,Mueang Phuket,83000,3244820981
+0000000274,789/12 Phuket FantaSea,Phuket,Kathu,83150,2801628265
+0000000275,234/56 Bang Tao Beach Road,Phuket,Thalang,83110,7667321764
+0000000276,567/89 Cape Panwa Road,Phuket,Mueang Phuket,83000,2109503717
+0000000277,890/12 Ao Po Grand Marina,Phuket,Thalang,83110,1086555565
+0000000278,456/78 Laem Singh Viewpoint,Phuket,Mueang Phuket,83100,3302983700
+0000000279,123/45 Monkey Hill,Phuket,Mueang Phuket,83000,2124675937
+0000000280,901/23 Patong Mountain Viewpoint,Phuket,Kathu,83150,9019963967
+0000000281,234/56 Kata Beach Road,Phuket,Mueang Phuket,83100,4806482294
+0000000282,567/89 Nai Thon Beach Road,Phuket,Thalang,83110,3597529096
+0000000283,890/12 Rawai Beach Road,Phuket,Mueang Phuket,83100,3254983108
+0000000284,345/67 Ya Nui Beach,Phuket,Mueang Phuket,83100,8259984149
+0000000285,678/90 Old Phuket Town,Phuket,Mueang Phuket,83000,7719655497
+0000000286,123/45 Ao Yon Beach Road,Phuket,Mueang Phuket,83000,9521738057
+0000000287,789/12 Big Buddha,Phuket,Mueang Phuket,83130,9475557449
+0000000288,234/56 Karon Temple Market,Phuket,Mueang Phuket,83100,5721228142
+0000000289,567/89 Promthep Cape,Phuket,Mueang Phuket,83100,8579495432
+0000000290,890/12 Sarasin Viewpoint,Phuket,Thalang,83110,5314491561
+0000000291,456/78 Ton Sai Waterfall,Phuket,Mueang Phuket,83000,3071931359
+0000000292,123/45 Ao Sane Beach Road,Phuket,Mueang Phuket,83100,9795560946
+0000000293,901/23 Laem Singh Viewpoint,Phuket,Mueang Phuket,83000,3001780646
+0000000294,234/56 Ao Po Grand Marina,Phuket,Thalang,83110,6175492976
+0000000295,123/45 Rojana Road,Ayutthaya,Uthai,13000,7994958739
+0000000296,789/12 Naresuan Road,Ayutthaya,Phra Nakhon Si Ayutthaya,13000,6259667447
+0000000297,456/78 Pa Thong Road,Ayutthaya,Phra Nakhon Si Ayutthaya,13000,1625395697
+0000000298,234/56 Bang Ian Road,Ayutthaya,Uthai,13000,5983990886
+0000000299,890/12 Bang Pa-In Road,Ayutthaya,Bang Pa-In,13160,1174883600
+0000000300,567/89 Pa Thong Road,Ayutthaya,Phra Nakhon Si Ayutthaya,13000,8779419152
+0000000301,321/54 Rojana Road,Ayutthaya,Uthai,13000,5531153502
+0000000302,987/65 Bang Ian Road,Ayutthaya,Uthai,13000,4283326883
+0000000303,654/32 Phachi Road,Ayutthaya,Phachi,13120,6538306795
+0000000304,234/56 Bang Pa-In Road,Ayutthaya,Bang Pa-In,13160,3922800289
+0000000305,890/12 Rojana Road,Ayutthaya,Uthai,13000,5073396805
+0000000306,345/67 Naresuan Road,Ayutthaya,Phra Nakhon Si Ayutthaya,13000,5195418110
+0000000307,678/90 Phachi Road,Ayutthaya,Phachi,13120,1582352575
+0000000308,123/45 Bang Pa-In Road,Ayutthaya,Bang Pa-In,13160,5462666861
+0000000309,901/23 Bang Ian Road,Ayutthaya,Uthai,13000,4348357254
+0000000310,234/56 Naresuan Road,Ayutthaya,Phra Nakhon Si Ayutthaya,13000,4549073209
+0000000311,567/89 Bang Pa-In Road,Ayutthaya,Bang Pa-In,13160,5398097102
+0000000312,890/12 Rojana Road,Ayutthaya,Uthai,13000,5936053037
+0000000313,456/78 Bang Ian Road,Ayutthaya,Uthai,13000,2117516267
+0000000314,123/45 Phachi Road,Ayutthaya,Phachi,13120,3736589704
+0000000315,789/12 Rojana Road,Ayutthaya,Uthai,13000,5088646620
+0000000316,234/56 Bang Ian Road,Ayutthaya,Uthai,13000,2484169040
+0000000317,567/89 Pa Thong Road,Ayutthaya,Phra Nakhon Si Ayutthaya,13000,8623076973
+0000000318,890/12 Naresuan Road,Ayutthaya,Phra Nakhon Si Ayutthaya,13000,8622487121
+0000000319,345/67 Phachi Road,Ayutthaya,Phachi,13120,8481465125
+0000000320,678/90 Bang Ian Road,Ayutthaya,Uthai,13000,4821422822
+0000000321,901/23 Bang Pa-In Road,Ayutthaya,Bang Pa-In,13160,6341592709
+0000000322,234/56 Rojana Road,Ayutthaya,Uthai,13000,5391719412
+0000000323,567/89 Pa Thong Road,Ayutthaya,Phra Nakhon Si Ayutthaya,13000,9116138095
+0000000324,890/12 Bang Ian Road,Ayutthaya,Uthai,13000,4178959171
+0000000325,456/78 Rojana Road,Ayutthaya,Uthai,13000,8767197265
+0000000326,123/45 Naresuan Road,Ayutthaya,Phra Nakhon Si Ayutthaya,13000,6133680561
+0000000327,789/12 Bang Pa-In Road,Ayutthaya,Bang Pa-In,13160,2412254501
+0000000328,234/56 Phachi Road,Ayutthaya,Phachi,13120,4834558157
+0000000329,567/89 Bang Ian Road,Ayutthaya,Uthai,13000,8597002130
+0000000330,890/12 Rojana Road,Ayutthaya,Uthai,13000,9195247770
+0000000331,345/67 Naresuan Road,Ayutthaya,Phra Nakhon Si Ayutthaya,13000,4125965050
+0000000332,678/90 Pa Thong Road,Ayutthaya,Phra Nakhon Si Ayutthaya,13000,1205041631
+0000000333,901/23 Phachi Road,Ayutthaya,Phachi,13120,7058470021
+0000000334,234/56 Bang Pa-In Road,Ayutthaya,Bang Pa-In,13160,4344584311
+0000000335,567/89 Rojana Road,Ayutthaya,Uthai,13000,9062743825
+0000000336,890/12 Bang Ian Road,Ayutthaya,Uthai,13000,9656990175
+0000000337,456/78 Naresuan Road,Ayutthaya,Phra Nakhon Si Ayutthaya,13000,1336056168
+0000000338,123/45 Phachi Road,Ayutthaya,Phachi,13120,6023571930
+0000000339,789/12 Bang Pa-In Road,Ayutthaya,Bang Pa-In,13160,3188396249
+0000000340,234/56 Pa Thong Road,Ayutthaya,Phra Nakhon Si Ayutthaya,13000,5033785412
+0000000341,567/89 Bang Ian Road,Ayutthaya,Uthai,13000,1224862448
+0000000342,890/12 Rojana Road,Ayutthaya,Uthai,13000,4247225945
+0000000343,345/67 Phachi Road,Ayutthaya,Phachi,13120,1613069214
+0000000344,678/90 Bang Pa-In Road,Ayutthaya,Bang Pa-In,13160,1363754601
+0000000345,901/23 Naresuan Road,Ayutthaya,Phra Nakhon Si Ayutthaya,13000,1391508506
+0000000346,234/56 Pa Thong Road,Ayutthaya,Phra Nakhon Si Ayutthaya,13000,1316385449
+0000000347,567/89 Bang Ian Road,Ayutthaya,Uthai,13000,1063066279
+0000000348,890/12 Rojana Road,Ayutthaya,Uthai,13000,5887933916
+0000000349,456/78 Bang Pa-In Road,Ayutthaya,Bang Pa-In,13160,3862296246
+0000000350,123/45 Phachi Road,Ayutthaya,Phachi,13120,3061823787
+0000000351,789/12 Naresuan Road,Ayutthaya,Phra Nakhon Si Ayutthaya,13000,5148768130
+0000000352,234/56 Bang Pa-In Road,Ayutthaya,Bang Pa-In,13160,6805494675
+0000000353,567/89 Rojana Road,Ayutthaya,Uthai,13000,4627520738
+0000000354,890/12 Pa Thong Road,Ayutthaya,Phra Nakhon Si Ayutthaya,13000,9592606106
+0000000355,345/67 Bang Ian Road,Ayutthaya,Uthai,13000,6132190621
+0000000356,678/90 Phachi Road,Ayutthaya,Phachi,13120,4244039920
+0000000357,901/23 Naresuan Road,Ayutthaya,Phra Nakhon Si Ayutthaya,13000,4338259510
+0000000358,234/56 Bang Pa-In Road,Ayutthaya,Bang Pa-In,13160,8519541738
+0000000359,567/89 Rojana Road,Ayutthaya,Uthai,13000,8651299151
+0000000360,890/12 Pa Thong Road,Ayutthaya,Phra Nakhon Si Ayutthaya,13000,5724333282
+0000000361,456/78 Bang Ian Road,Ayutthaya,Uthai,13000,7203183056
+0000000362,123/45 Phachi Road,Ayutthaya,Phachi,13120,2239325130
+0000000363,789/12 Naresuan Road,Ayutthaya,Phra Nakhon Si Ayutthaya,13000,9964340541
+0000000364,234/56 Bang Pa-In Road,Ayutthaya,Bang Pa-In,13160,3026362972
+0000000365,567/89 Rojana Road,Ayutthaya,Uthai,13000,9309614835
+0000000366,890/12 Pa Thong Road,Ayutthaya,Phra Nakhon Si Ayutthaya,13000,7772725742
+0000000367,345/67 Bang Ian Road,Ayutthaya,Uthai,13000,7833490368
+0000000368,678/90 Phachi Road,Ayutthaya,Phachi,13120,2425800068
+0000000369,901/23 Naresuan Road,Ayutthaya,Phra Nakhon Si Ayutthaya,13000,8341235738
+0000000370,234/56 Bang Pa-In Road,Ayutthaya,Bang Pa-In,13160,8097292769
+0000000371,567/89 Rojana Road,Ayutthaya,Uthai,13000,6937111987
+0000000372,890/12 Pa Thong Road,Ayutthaya,Phra Nakhon Si Ayutthaya,13000,3857864741
+0000000373,456/78 Bang Ian Road,Ayutthaya,Uthai,13000,2258675146
+0000000374,123/45 Phachi Road,Ayutthaya,Phachi,13120,5094815626
+0000000375,789/12 Naresuan Road,Ayutthaya,Phra Nakhon Si Ayutthaya,13000,3525055981
+0000000376,123/45 Pattaya Beach Road,Chon Buri,Bang Lamung,20150,2513571328
+0000000377,789/12 Jomtien Beach Road,Chon Buri,Bang Lamung,20150,6069301414
+0000000378,456/78 Naklua Road,Chon Buri,Bang Lamung,20150,1543222685
+0000000379,234/56 Central Pattaya Road,Chon Buri,Bang Lamung,20150,3823032375
+0000000380,890/12 Sukhumvit Road,Chon Buri,Sattahip,20250,1954949875
+0000000381,567/89 Sriracha Nakorn Road,Chon Buri,Sriracha,20110,4303490728
+0000000382,321/54 Laem Chabang Industrial Estate,Chon Buri,Sriracha,20230,7697295342
+0000000383,987/65 Mueang Chon Buri Road,Chon Buri,Mueang Chon Buri,20000,1958204094
+0000000384,654/32 Bang Saen Lang Road,Chon Buri,Mueang Chon Buri,20130,6015823527
+0000000385,234/56 Nong Mon Market Road,Chon Buri,Mueang Chon Buri,20000,3682740289
+0000000386,890/12 Si Racha Nakorn Road,Chon Buri,Sriracha,20110,4739701502
+0000000387,345/67 Khao Kheow Open Zoo,Chon Buri,Sriracha,20250,9347609580
+0000000388,678/90 Khlong Tamru,Chon Buri,Bang Lamung,20150,9125859505
+0000000389,123/45 Ban Bueng Road,Chon Buri,Ban Bueng,20170,4449475186
+0000000390,901/23 Bang Saen Beach Road,Chon Buri,Sattahip,20250,5544767805
+0000000391,234/56 Nong Yai Road,Chon Buri,Sattahip,20250,2116348548
+0000000392,567/89 Bang Phra Reservoir,Chon Buri,Sriracha,20110,8017625085
+0000000393,890/12 Bo Win Sub-district,Chon Buri,Sriracha,20110,4802536180
+0000000394,456/78 Nong Prue Sub-district,Chon Buri,Bang Lamung,20150,3986561733
+0000000395,123/45 Khao Maikaew,Chon Buri,Sattahip,20250,1784014381
+0000000396,789/12 Bang Lamung,Chon Buri,Bang Lamung,20150,2255488921
+0000000397,234/56 Ko Sichang,Chon Buri,Ko Sichang,20000,1098198457
+0000000398,567/89 Bang Saen Lang Beach,Chon Buri,Sattahip,20250,5484303550
+0000000399,890/12 Si Racha District Office,Chon Buri,Sriracha,20110,2457232899
+0000000400,345/67 Laem Chabang Port,Chon Buri,Sriracha,20230,2965555421
+0000000401,678/90 Nong Chak,Chon Buri,Mueang Chon Buri,20000,4605483707
+0000000402,901/23 Nong Irun,Chon Buri,Mueang Chon Buri,20000,1161885552
+0000000403,234/56 Ban Suan,Chon Buri,Sattahip,20250,8911026452
+0000000404,567/89 Bang Saen,Chon Buri,Sattahip,20250,9719544933
+0000000405,890/12 Bo Thong,Chon Buri,Sattahip,20250,9893201275
+0000000406,456/78 Ban Chang,Chon Buri,Ban Chang,20150,8597154002
+0000000407,123/45 Phan Thong,Chon Buri,Phan Thong,20140,2556517962
+0000000408,789/12 Ko Loi,Chon Buri,Sriracha,20110,8903491355
+0000000409,234/56 Sattahip Naval Base,Chon Buri,Sattahip,20250,9387715151
+0000000410,567/89 Nong Kham,Chon Buri,Sriracha,20110,2905065242
+0000000411,890/12 Phanat Nikhom,Chon Buri,Phanat Nikhom,20140,6007477342
+0000000412,345/67 Nong Yai,Chon Buri,Sattahip,20250,3277298220
+0000000413,678/90 Ban Bueng,Chon Buri,Ban Bueng,20170,5897609543
+0000000414,901/23 Ko Lan,Chon Buri,Sattahip,20250,6041470153
+0000000415,234/56 Bang Lamung Hospital,Chon Buri,Bang Lamung,20150,6223330722
+0000000416,567/89 Nong Pla Lai,Chon Buri,Bang Lamung,20150,8781313291
+0000000417,890/12 Nong Khor,Chon Buri,Mueang Chon Buri,20000,6059003139
+0000000418,456/78 Ban Suan,Chon Buri,Ban Bueng,20170,8764544979
+0000000419,123/45 Mueang Chon Buri,Chon Buri,Mueang Chon Buri,20000,2028688679
+0000000420,789/12 Nong Irun,Chon Buri,Mueang Chon Buri,20000,6736803606
+0000000421,234/56 Phan Thong,Chon Buri,Phan Thong,20140,1617404784
+0000000422,567/89 Sattahip,Chon Buri,Sattahip,20250,2946263826
+0000000423,890/12 Ban Chang,Chon Buri,Ban Chang,20150,2581218217
+0000000424,345/67 Si Racha,Chon Buri,Sriracha,20110,3473357294
+0000000425,678/90 Bang Lamung,Chon Buri,Bang Lamung,20150,2725624516
+0000000426,901/23 Sattahip Naval Base,Chon Buri,Sattahip,20250,2551809653
+0000000427,234/56 Ban Suan,Chon Buri,Ban Bueng,20170,1724875496
+0000000428,567/89 Ko Lan,Chon Buri,Sattahip,20250,1668708493
+0000000429,890/12 Ban Bueng,Chon Buri,Ban Bueng,20170,2128558927
+0000000430,456/78 Bang Lamung Hospital,Chon Buri,Bang Lamung,20150,9268032607
+0000000431,123/45 Nong Pla Lai,Chon Buri,Bang Lamung,20150,4944014588
+0000000432,789/12 Nong Khor,Chon Buri,Mueang Chon Buri,20000,2254095157
+0000000433,234/56 Ban Suan,Chon Buri,Ban Bueng,20170,6069636719
+0000000434,567/89 Nong Pla Lai,Chon Buri,Bang Lamung,20150,3236476574
+0000000435,890/12 Nong Khor,Chon Buri,Mueang Chon Buri,20000,9642894334
+0000000436,345/67 Ban Bueng,Chon Buri,Ban Bueng,20170,2951871839
+0000000437,678/90 Mueang Chon Buri,Chon Buri,Mueang Chon Buri,20000,9181811021
+0000000438,901/23 Nong Irun,Chon Buri,Mueang Chon Buri,20000,3373252543
+0000000439,234/56 Phan Thong,Chon Buri,Phan Thong,20140,3225645782
+0000000440,567/89 Sattahip,Chon Buri,Sattahip,20250,5621803715
+0000000441,890/12 Ban Chang,Chon Buri,Ban Chang,20150,6899482205
+0000000442,456/78 Si Racha,Chon Buri,Sriracha,20110,8812152033
+0000000443,123/45 Bang Lamung,Chon Buri,Bang Lamung,20150,4829330163
+0000000444,789/12 Sattahip Naval Base,Chon Buri,Sattahip,20250,4759253387
+0000000445,234/56 Ban Suan,Chon Buri,Ban Bueng,20170,9018938675
+0000000446,567/89 Ko Lan,Chon Buri,Sattahip,20250,4075525210
+0000000447,890/12 Bang Lamung,Chon Buri,Bang Lamung,20150,7189500045
+0000000448,345/67 Mueang Chon Buri,Chon Buri,Mueang Chon Buri,20000,5106451260
+0000000449,678/90 Nong Irun,Chon Buri,Mueang Chon Buri,20000,1106612024
+0000000450,901/23 Phan Thong,Chon Buri,Phan Thong,20140,8845204359
+0000000451,234/56 Sattahip,Chon Buri,Sattahip,20250,9055791557
+0000000452,567/89 Ban Chang,Chon Buri,Ban Chang,20150,4085365948
+0000000453,890/12 Si Racha,Chon Buri,Sriracha,20110,2184497850
+0000000454,456/78 Bang Lamung,Chon Buri,Bang Lamung,20150,7411914446
+0000000455,123/45 Sattahip Naval Base,Chon Buri,Sattahip,20250,3496758886
+0000000456,789/12 Ban Suan,Chon Buri,Ban Bueng,20170,8821007775
+0000000457,234/56 Ko Lan,Chon Buri,Sattahip,20250,2601252106
+0000000458,567/89 Bang Lamung,Chon Buri,Bang Lamung,20150,3927215723
+0000000459,890/12 Ban Bueng,Chon Buri,Ban Bueng,20170,2107320842
+0000000460,345/67 Bang Lamung Hospital,Chon Buri,Bang Lamung,20150,1708404286
+0000000461,678/90 Nong Pla Lai,Chon Buri,Bang Lamung,20150,7505017807
+0000000462,901/23 Nong Khor,Chon Buri,Mueang Chon Buri,20000,1802488033
+0000000463,234/56 Ban Suan,Chon Buri,Ban Bueng,20170,6439260916
+0000000464,567/89 Nong Pla Lai,Chon Buri,Bang Lamung,20150,5435329000
+0000000465,890/12 Nong Khor,Chon Buri,Mueang Chon Buri,20000,5938488860
+0000000466,345/67 Ban Bueng,Chon Buri,Ban Bueng,20170,1191730617
+0000000467,678/90 Mueang Chon Buri,Chon Buri,Mueang Chon Buri,20000,4327449357
+0000000468,901/23 Nong Irun,Chon Buri,Mueang Chon Buri,20000,8155455773
+0000000469,234/56 Phan Thong,Chon Buri,Phan Thong,20140,4915297385
+0000000470,567/89 Sattahip,Chon Buri,Sattahip,20250,8602383538
+0000000471,890/12 Ban Chang,Chon Buri,Ban Chang,20150,8493234219
+0000000472,456/78 Si Racha,Chon Buri,Sriracha,20110,7402084901
+0000000473,123/45 Bang Lamung,Chon Buri,Bang Lamung,20150,7999917523
+0000000474,789/12 Sattahip Naval Base,Chon Buri,Sattahip,20250,4286523047
+0000000475,234/56 Ban Suan,Chon Buri,Ban Bueng,20170,7682268378
+0000000476,567/89 Ko Lan,Chon Buri,Sattahip,20250,1314225509
+0000000477,890/12 Bang Lamung,Chon Buri,Bang Lamung,20150,2058098560
+0000000478,345/67 Mueang Chon Buri,Chon Buri,Mueang Chon Buri,20000,9953026302
+0000000479,678/90 Nong Irun,Chon Buri,Mueang Chon Buri,20000,1348878016
+0000000480,901/23 Phan Thong,Chon Buri,Phan Thong,20140,7861687429
+0000000481,234/56 Sattahip,Chon Buri,Sattahip,20250,5275609205
+0000000482,567/89 Ban Chang,Chon Buri,Ban Chang,20150,2105323836
+0000000483,890/12 Si Racha,Chon Buri,Sriracha,20110,3433725420
+0000000484,456/78 Bang Lamung,Chon Buri,Bang Lamung,20150,9606355114
+0000000485,123/45 Sattahip Naval Base,Chon Buri,Sattahip,20250,6096776994
+0000000486,789/12 Ban Suan,Chon Buri,Ban Bueng,20170,2949783329
+0000000487,234/56 Ko Lan,Chon Buri,Sattahip,20250,9645965359
+0000000488,567/89 Bang Lamung,Chon Buri,Bang Lamung,20150,3475905026
+0000000489,890/12 Ban Bueng,Chon Buri,Ban Bueng,20170,1049457627
+0000000490,345/67 Bang Lamung Hospital,Chon Buri,Bang Lamung,20150,5488569744
+0000000491,678/90 Nong Pla Lai,Chon Buri,Bang Lamung,20150,9272883162
+0000000492,901/23 Nong Khor,Chon Buri,Mueang Chon Buri,20000,3667967607
+0000000493,234/56 Ban Suan,Chon Buri,Ban Bueng,20170,9043662493
+0000000494,567/89 Nong Pla Lai,Chon Buri,Bang Lamung,20150,4081300918
+0000000495,890/12 Nong Khor,Chon Buri,Mueang Chon Buri,20000,3454501579
+0000000496,345/67 Ban Bueng,Chon Buri,Ban Bueng,20170,4871396620
+0000000497,678/90 Mueang Chon Buri,Chon Buri,Mueang Chon Buri,20000,2889657157
+0000000498,901/23 Nong Irun,Chon Buri,Mueang Chon Buri,20000,7632536004
+0000000499,123/45 Nimmanhaemin Road,Chiang Mai,Mueang Chiang Mai,50200,9047330598
+0000000500,789/12 Tha Phae Road,Chiang Mai,Mueang Chiang Mai,50100,4542436010
