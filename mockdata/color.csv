@@ -1,11 +1,10 @@
-color_id,color_name
 FFFFFF,White
-'000000,Black
+000000,Black
 808080,Gray
 A52A2A,Brown
 FF0000,Red
-'0000FF,Blue
-'008000,Green
+0000FF,Blue
+008000,Green
 FFFF00,Yellow
 800080,Purple
 FFA500,Orange
@@ -15,15 +14,14 @@ D3D3D3,Light Gray
 8B4513,Dark Brown
 FFD700,Gold
 C0C0C0,Silver
-'008080,Teal
-'000080,Navy
+008080,Teal
+000080,Navy
 F5F5DC,Beige
-'00FFFF,Aqua
+00FFFF,Aqua
 800000,Maroon
 808000,Olive
 FF0080,Fuchsia
-'00FF00,Lime
-800080,Dark Magenta
+00FF00,Lime
 FF1493,Deep Pink
 B0E0E6,Powder Blue
 4682B4,Steel Blue

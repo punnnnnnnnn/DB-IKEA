@@ -1,101 +1,100 @@
-﻿address_id,address,province,district,zip,telephone
-1,123 Sukhumvit Road,Bangkok,Klong Toey,10110,0623456789
-2,456 Ratchadaphisek Road,Bangkok,Huai Khwang,10310,0629876543
-3,789 Sathorn Road,Bangkok,Bang Rak,10500,0621567890
-4,1010 Pradit Manutham Road,Bangkok,Wang Thonglang,10310,0628901234
-5,1313 Rama IV Road,Bangkok,Klong Toey,10110,0623456789
-6,1616 Charoen Krung Road,Bangkok,Bang Kho Laem,10120,
-7,1919 Ratchadamri Road,Bangkok,Pathum Wan,10330,0621234567
-8,2222 Phetchaburi Road,Bangkok,Ratchathewi,10400,0627890123
-9,2525 Sukhumvit Road,Bangkok,Watthana,10110,0622345678
-10,2828 Prachachuen Road,Bangkok,Bang Sue,10800,0625678901
-11,3131 Lat Phrao Road,Bangkok,Wang Thonglang,10310,0629012345
-12,3434 Phahonyothin Road,Bangkok,Chatuchak,10900,0628765432
-13,3737 Wireless Road,Bangkok,Lumpini,10330,
-14,4040 Silom Road,Bangkok,Bang Rak,10500,0620987654
-15,4343 Vibhavadi Rangsit Road,Bangkok,Chatuchak,10900,0627890123
-16,4646 Ploenchit Road,Bangkok,Lumpini,10330,0626543210
-17,4949 Phetkasem Road,Bangkok,Bang Khae,10160,0624567890
-18,5252 Ngamwongwan Road,Bangkok,Nonthaburi,11000,0627890123
-19,5555 Tiwanon Road,Bangkok,Nonthaburi,11000,0623456789
-20,5858 Chaengwattana Road,Bangkok,Pak Kret,11120,
-21,6161 Srinakarin Road,Bangkok,Nong Bon,10250,0621234567
-22,6464 Pahonyothin Road,Bangkok,Chatuchak,10900,0627890123
-23,6767 Ratchaphruek Road,Bangkok,Taling Chan,10170,
-24,7070 Sukhumvit Road,Bangkok,Watthana,10110,0629012345
-25,7373 Prachachuen Road,Bangkok,Bang Sue,10800,
-26,7676 Lat Phrao Road,Bangkok,Wang Thonglang,10310,
-27,7979 Charoen Krung Road,Bangkok,Bang Kho Laem,10120,0620987654
-28,8282 Rama IV Road,Bangkok,Klong Toey,10110,
-29,8585 Phra Athit Road,Bangkok,Phra Nakhon,10200,0629876543
-30,8888 Sathorn Road,Bangkok,Bang Rak,10500,0628765432
-31,9191 Ratchadamri Road,Bangkok,Pathum Wan,10330,0622345678
-32,9494 Pradit Manutham Road,Bangkok,Wang Thonglang,10310,0625678901
-33,9797 Phetchaburi Road,Bangkok,Ratchathewi,10400,0626543210
-34,10101 Wireless Road,Bangkok,Lumpini,10330,
-35,104104 Silom Road,Bangkok,Bang Rak,10500,0621567890
-36,107107 Vibhavadi Rangsit Road,Bangkok,Chatuchak,10900,0623456789
-37,110110 Ploenchit Road,Bangkok,Lumpini,10330,0620987654
-38,113113 Phetkasem Road,Bangkok,Bang Khae,10160,0621234567
-39,116116 Ngamwongwan Road,Bangkok,Nonthaburi,11000,0625678901
-40,119119 Tiwanon Road,Bangkok,Nonthaburi,11000,
-41,122122 Chaengwattana Road,Bangkok,Pak Kret,11120,0629012345
-42,125125 Srinakarin Road,Bangkok,Nong Bon,10250,
-43,128128 Pahonyothin Road,Bangkok,Chatuchak,10900,0622345678
-44,131131 Ratchaphruek Road,Bangkok,Taling Chan,10170,0629876543
-45,134134 Sukhumvit Road,Bangkok,Watthana,10110,0628765432
-46,137137 Prachachuen Road,Bangkok,Bang Sue,10800,
-47,140140 Lat Phrao Road,Bangkok,Wang Thonglang,10310,0624567890
-48,143143 Charoen Krung Road,Bangkok,Bang Kho Laem,10120,0627890123
-49,146146 Rama IV Road,Bangkok,Klong Toey,10110,0628901234
-50,149149 Phra Athit Road,Bangkok,Phra Nakhon,10200,0621567890
-51,123 Nonthaburi Road,Nonthaburi,Mueang Nonthaburi,11000,
-52,456 Tiwanon Road,Nonthaburi,Pak Kret,11120,
-53,789 Chaengwattana Road,Nonthaburi,Pak Kret,11120,
-54,1010 Phibun Songkram Road,Nonthaburi,Mueang Nonthaburi,11000,0621234567
-55,1313 Rattanathibet Road,Nonthaburi,Bang Kraso,11000,0624567890
-56,1616 Pracharat 1 Road,Nonthaburi,Bang Yai,11140,
-57,1919 Rama V Road,Nonthaburi,Mueang Nonthaburi,11000,0628901234
-58,2222 Theparak Road,Nonthaburi,Mueang Nonthaburi,11000,0625678901
-59,2525 Tiwanon Road,Nonthaburi,Pak Kret,11120,0629012345
-60,2828 Sanambin Nam Road,Nonthaburi,Mueang Nonthaburi,11000,0622345678
-61,123 Sukhumvit Road,Samut Prakan,Mueang Samut Prakan,10270,0629876543
-62,456 Bangna-Trad Road,Samut Prakan,Bang Phli,10540,
-63,789 Srinakarin Road,Samut Prakan,Mueang Samut Prakan,10270,0625678901
-64,1010 Rama II Road,Samut Prakan,Mueang Samut Prakan,10270,0628765432
-65,1313 Sukhumvit 77 Road,Samut Prakan,Bang Phli,10540,0620987654
-66,1616 Paknam Road,Samut Prakan,Mueang Samut Prakan,10270,0627890123
-67,1919 Theparak Road,Samut Prakan,Mueang Samut Prakan,10270,0621567890
-68,2222 Bangna Road,Samut Prakan,Bang Phli,10540,0621234567
-69,2525 Srinagarindra Road,Samut Prakan,Mueang Samut Prakan,10270,0626543210
-70,2828 Rama III Road,Samut Prakan,Mueang Samut Prakan,10270,0629012345
-71,123 Tiwanon Road,Pathum Thani,Mueang Pathum Thani,12000,0623456789
-72,456 Rangsit-Nakhon Nayok Road,Pathum Thani,Klong Luang,12120,0625678901
-73,789 Phahonyothin Road,Pathum Thani,Lat Lum Kaeo,12140,
-74,1010 Rangsit-Pathum Thani Road,Pathum Thani,Lat Lum Kaeo,12140,0622345678
-75,1313 Tiwanon Road,Pathum Thani,Mueang Pathum Thani,12000,0627890123
-76,1616 Rangsit-Nakhon Nayok Road,Pathum Thani,Klong Luang,12120,0628901234
-77,1919 Phahonyothin Road,Pathum Thani,Lat Lum Kaeo,12140,0620987654
-78,2222 Rangsit-Pathum Thani Road,Pathum Thani,Lat Lum Kaeo,12140,0629876543
-79,2525 Tiwanon Road,Pathum Thani,Mueang Pathum Thani,12000,
-80,2828 Rangsit-Nakhon Nayok Road,Pathum Thani,Klong Luang,12120,
-81,123 Mahachai Road,Samut Sakhon,Mueang Samut Sakhon,74000,0626543210
-82,456 Tha Chin Road,Samut Sakhon,Ban Phaeo,74120,0621234567
-83,789 Rama II Road,Samut Sakhon,Krathum Baen,74110,0627890123
-84,1010 Nadee Road,Samut Sakhon,Mueang Samut Sakhon,74000,0623456789
-85,1313 Soi Nok Wua,Samut Sakhon,Ban Phaeo,74120,0628901234
-86,1616 Chaichan Road,Samut Sakhon,Krathum Baen,74110,
-87,1919 Pracha Uthit Road,Samut Sakhon,Mueang Samut Sakhon,74000,0622345678
-88,2222 Tha Na Road,Samut Sakhon,Ban Phaeo,74120,0624567890
-89,2525 Ratchadamri Road,Samut Sakhon,Krathum Baen,74110,0629876543
-90,2828 Rama IV Road,Samut Sakhon,Mueang Samut Sakhon,74000,
-91,123 Patong Beach Road,Phuket,Kathu,83150,0628765432
-92,456 Kata Noi Road,Phuket,Kathu,83100,0627890123
-93,789 Karon Beach Road,Phuket,Mueang Phuket,83100,0623456789
-94,1010 Chalong Bay Road,Phuket,Mueang Phuket,83130,
-95,1313 Kamala Beach Road,Phuket,Kathu,83150,0620987654
-96,1616 Mai Khao Beach Road,Phuket,Thalang,83110,0622345678
-97,1919 Rawai Beach Road,Phuket,Mueang Phuket,83100,0628901234
-98,2222 Surin Beach Road,Phuket,Thalang,83110,0621567890
-99,2525 Nai Harn Beach Road,Phuket,Mueang Phuket,83100,0625678901
-100,2828 Patong Beach Road,Phuket,Kathu,83150,0629012345
+0000000001,123 Sukhumvit Road,Bangkok,Klong Toey,10110,0623456789
+0000000002,456 Ratchadaphisek Road,Bangkok,Huai Khwang,10310,0629876543
+0000000003,789 Sathorn Road,Bangkok,Bang Rak,10500,0621567890
+0000000004,1010 Pradit Manutham Road,Bangkok,Wang Thonglang,10310,0628901234
+0000000005,1313 Rama IV Road,Bangkok,Klong Toey,10110,0623456789
+0000000006,1616 Charoen Krung Road,Bangkok,Bang Kho Laem,10120,
+0000000007,1919 Ratchadamri Road,Bangkok,Pathum Wan,10330,0621234567
+0000000008,2222 Phetchaburi Road,Bangkok,Ratchathewi,10400,0627890123
+0000000009,2525 Sukhumvit Road,Bangkok,Watthana,10110,0622345678
+0000000010,2828 Prachachuen Road,Bangkok,Bang Sue,10800,0625678901
+0000000011,3131 Lat Phrao Road,Bangkok,Wang Thonglang,10310,0629012345
+0000000012,3434 Phahonyothin Road,Bangkok,Chatuchak,10900,0628765432
+0000000013,3737 Wireless Road,Bangkok,Lumpini,10330,
+0000000014,4040 Silom Road,Bangkok,Bang Rak,10500,0620987654
+0000000015,4343 Vibhavadi Rangsit Road,Bangkok,Chatuchak,10900,0627890123
+0000000016,4646 Ploenchit Road,Bangkok,Lumpini,10330,0626543210
+0000000017,4949 Phetkasem Road,Bangkok,Bang Khae,10160,0624567890
+0000000018,5252 Ngamwongwan Road,Bangkok,Nonthaburi,11000,0627890123
+0000000019,5555 Tiwanon Road,Bangkok,Nonthaburi,11000,0623456789
+0000000020,5858 Chaengwattana Road,Bangkok,Pak Kret,11120,
+0000000021,6161 Srinakarin Road,Bangkok,Nong Bon,10250,0621234567
+0000000022,6464 Pahonyothin Road,Bangkok,Chatuchak,10900,0627890123
+0000000023,6767 Ratchaphruek Road,Bangkok,Taling Chan,10170,
+0000000024,7070 Sukhumvit Road,Bangkok,Watthana,10110,0629012345
+0000000025,7373 Prachachuen Road,Bangkok,Bang Sue,10800,
+0000000026,7676 Lat Phrao Road,Bangkok,Wang Thonglang,10310,
+0000000027,7979 Charoen Krung Road,Bangkok,Bang Kho Laem,10120,0620987654
+0000000028,8282 Rama IV Road,Bangkok,Klong Toey,10110,
+0000000029,8585 Phra Athit Road,Bangkok,Phra Nakhon,10200,0629876543
+0000000030,8888 Sathorn Road,Bangkok,Bang Rak,10500,0628765432
+0000000031,9191 Ratchadamri Road,Bangkok,Pathum Wan,10330,0622345678
+0000000032,9494 Pradit Manutham Road,Bangkok,Wang Thonglang,10310,0625678901
+0000000033,9797 Phetchaburi Road,Bangkok,Ratchathewi,10400,0626543210
+0000000034,10101 Wireless Road,Bangkok,Lumpini,10330,
+0000000035,104104 Silom Road,Bangkok,Bang Rak,10500,0621567890
+0000000036,107107 Vibhavadi Rangsit Road,Bangkok,Chatuchak,10900,0623456789
+0000000037,110110 Ploenchit Road,Bangkok,Lumpini,10330,0620987654
+0000000038,113113 Phetkasem Road,Bangkok,Bang Khae,10160,0621234567
+0000000039,116116 Ngamwongwan Road,Bangkok,Nonthaburi,11000,0625678901
+0000000040,119119 Tiwanon Road,Bangkok,Nonthaburi,11000,
+0000000041,122122 Chaengwattana Road,Bangkok,Pak Kret,11120,0629012345
+0000000042,125125 Srinakarin Road,Bangkok,Nong Bon,10250,
+0000000043,128128 Pahonyothin Road,Bangkok,Chatuchak,10900,0622345678
+0000000044,131131 Ratchaphruek Road,Bangkok,Taling Chan,10170,0629876543
+0000000045,134134 Sukhumvit Road,Bangkok,Watthana,10110,0628765432
+0000000046,137137 Prachachuen Road,Bangkok,Bang Sue,10800,
+0000000047,140140 Lat Phrao Road,Bangkok,Wang Thonglang,10310,0624567890
+0000000048,143143 Charoen Krung Road,Bangkok,Bang Kho Laem,10120,0627890123
+0000000049,146146 Rama IV Road,Bangkok,Klong Toey,10110,0628901234
+0000000050,149149 Phra Athit Road,Bangkok,Phra Nakhon,10200,0621567890
+0000000051,123 Nonthaburi Road,Nonthaburi,Mueang Nonthaburi,11000,
+0000000052,456 Tiwanon Road,Nonthaburi,Pak Kret,11120,
+0000000053,789 Chaengwattana Road,Nonthaburi,Pak Kret,11120,
+0000000054,1010 Phibun Songkram Road,Nonthaburi,Mueang Nonthaburi,11000,0621234567
+0000000055,1313 Rattanathibet Road,Nonthaburi,Bang Kraso,11000,0624567890
+0000000056,1616 Pracharat 1 Road,Nonthaburi,Bang Yai,11140,
+0000000057,1919 Rama V Road,Nonthaburi,Mueang Nonthaburi,11000,0628901234
+0000000058,2222 Theparak Road,Nonthaburi,Mueang Nonthaburi,11000,0625678901
+0000000059,2525 Tiwanon Road,Nonthaburi,Pak Kret,11120,0629012345
+0000000060,2828 Sanambin Nam Road,Nonthaburi,Mueang Nonthaburi,11000,0622345678
+0000000061,123 Sukhumvit Road,Samut Prakan,Mueang Samut Prakan,10270,0629876543
+0000000062,456 Bangna-Trad Road,Samut Prakan,Bang Phli,10540,
+0000000063,789 Srinakarin Road,Samut Prakan,Mueang Samut Prakan,10270,0625678901
+0000000064,1010 Rama II Road,Samut Prakan,Mueang Samut Prakan,10270,0628765432
+0000000065,1313 Sukhumvit 77 Road,Samut Prakan,Bang Phli,10540,0620987654
+0000000066,1616 Paknam Road,Samut Prakan,Mueang Samut Prakan,10270,0627890123
+0000000067,1919 Theparak Road,Samut Prakan,Mueang Samut Prakan,10270,0621567890
+0000000068,2222 Bangna Road,Samut Prakan,Bang Phli,10540,0621234567
+0000000069,2525 Srinagarindra Road,Samut Prakan,Mueang Samut Prakan,10270,0626543210
+0000000070,2828 Rama III Road,Samut Prakan,Mueang Samut Prakan,10270,0629012345
+0000000071,123 Tiwanon Road,Pathum Thani,Mueang Pathum Thani,12000,0623456789
+0000000072,456 Rangsit-Nakhon Nayok Road,Pathum Thani,Klong Luang,12120,0625678901
+0000000073,789 Phahonyothin Road,Pathum Thani,Lat Lum Kaeo,12140,
+0000000074,1010 Rangsit-Pathum Thani Road,Pathum Thani,Lat Lum Kaeo,12140,0622345678
+0000000075,1313 Tiwanon Road,Pathum Thani,Mueang Pathum Thani,12000,0627890123
+0000000076,1616 Rangsit-Nakhon Nayok Road,Pathum Thani,Klong Luang,12120,0628901234
+0000000077,1919 Phahonyothin Road,Pathum Thani,Lat Lum Kaeo,12140,0620987654
+0000000078,2222 Rangsit-Pathum Thani Road,Pathum Thani,Lat Lum Kaeo,12140,0629876543
+0000000079,2525 Tiwanon Road,Pathum Thani,Mueang Pathum Thani,12000,
+0000000080,2828 Rangsit-Nakhon Nayok Road,Pathum Thani,Klong Luang,12120,
+0000000081,123 Mahachai Road,Samut Sakhon,Mueang Samut Sakhon,74000,0626543210
+0000000082,456 Tha Chin Road,Samut Sakhon,Ban Phaeo,74120,0621234567
+0000000083,789 Rama II Road,Samut Sakhon,Krathum Baen,74110,0627890123
+0000000084,1010 Nadee Road,Samut Sakhon,Mueang Samut Sakhon,74000,0623456789
+0000000085,1313 Soi Nok Wua,Samut Sakhon,Ban Phaeo,74120,0628901234
+0000000086,1616 Chaichan Road,Samut Sakhon,Krathum Baen,74110,
+0000000087,1919 Pracha Uthit Road,Samut Sakhon,Mueang Samut Sakhon,74000,0622345678
+0000000088,2222 Tha Na Road,Samut Sakhon,Ban Phaeo,74120,0624567890
+0000000089,2525 Ratchadamri Road,Samut Sakhon,Krathum Baen,74110,0629876543
+0000000090,2828 Rama IV Road,Samut Sakhon,Mueang Samut Sakhon,74000,
+0000000091,123 Patong Beach Road,Phuket,Kathu,83150,0628765432
+0000000092,456 Kata Noi Road,Phuket,Kathu,83100,0627890123
+0000000093,789 Karon Beach Road,Phuket,Mueang Phuket,83100,0623456789
+0000000094,1010 Chalong Bay Road,Phuket,Mueang Phuket,83130,
+0000000095,1313 Kamala Beach Road,Phuket,Kathu,83150,0620987654
+0000000096,1616 Mai Khao Beach Road,Phuket,Thalang,83110,0622345678
+0000000097,1919 Rawai Beach Road,Phuket,Mueang Phuket,83100,0628901234
+0000000098,2222 Surin Beach Road,Phuket,Thalang,83110,0621567890
+0000000099,2525 Nai Harn Beach Road,Phuket,Mueang Phuket,83100,0625678901
+0000000100,2828 Patong Beach Road,Phuket,Kathu,83150,0629012345

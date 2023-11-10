@@ -1,5 +1,4 @@
-payment_id,payment_desc
-'01,Cash
-'02,Master Card
-'03,Visa Card
-'04,Prompt Pay
+01,Cash
+02,Master Card
+03,Visa Card
+04,Prompt Pay
