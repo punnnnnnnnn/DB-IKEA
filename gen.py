@@ -8,10 +8,10 @@ def generate_random_data():
     end_date = datetime(2023, 12, 31)
 
     # Generate more intense records during 2020 - 2021 due to covid
-    covid_intensity = 8 if datetime(2020, 1, 1) <= start_date <= datetime(2021, 12, 31) else 0.5
+    covid_intensity = 10 if datetime(2020, 1, 1) <= start_date <= datetime(2021, 12, 31) else 0.5
 
     data = []
-    for _ in range(500):
+    for _ in range(5000):
         date = start_date + timedelta(days=random.randint(0, (end_date - start_date).days))
         
         # Generate more records during day time than night
