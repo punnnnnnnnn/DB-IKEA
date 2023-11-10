@@ -1,3 +1,2 @@
-shipping_method_id,shipping_method_desc
-'01,Pick-Up
-'02,Delivery
+01,Pick-Up
+02,Delivery
