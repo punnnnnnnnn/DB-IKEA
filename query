@@ -1,0 +1,48 @@
+WITH parentCat AS (
+    SELECT p.product_id,
+        p.product_name_eng,
+        c.category_name,
+        c.category_id
+    FROM public."Product" p
+    LEFT JOIN public."ProductCategory" pc ON pc.product_id = p.product_id 
+    LEFT JOIN public."SubCategory_4_3" sc43 ON sc43."SubCat_4_id" = pc."subcategory_id"
+    LEFT JOIN public."SubCategory_3_2" sc32 ON (sc32."SubCat_3_id" = pc."subcategory_id" OR sc32."SubCat_3_id" = sc43."SubCat_3_id")
+    LEFT JOIN public."SubCategory_2_1" sc21 ON (sc21."SubCat_2_id" = pc."subcategory_id" OR sc21."SubCat_2_id" = sc32."SubCat_2_id")
+    LEFT JOIN public."CatSubCat" csc ON (csc."SubCategory_1_subcategory_id" = pc."subcategory_id" OR csc."SubCategory_1_subcategory_id" = sc21."SubCat_1_id")
+    LEFT JOIN public."Category" c ON c."category_id" = csc."Category_category_id"
+
+)
+,
+groupingQry AS (
+    SELECT row_number() OVER (PARTITION BY pc.category_name) row_num,
+    p.product_id,
+        p.product_name_eng "Product Name",
+        pc.category_name,
+        SUM(po.qty * ph.normal_price),
+        SUM(po.qty * ph.normal_price) OVER (PARTITION BY pc.category_name) "Sales"
+    FROM public."ProductOrder" po
+    LEFT JOIN public."Product" p ON po."product_id" = p."product_id"
+    LEFT JOIN public."PriceHistory" ph ON ph."product_id" = p."product_id"
+    LEFT JOIN public."Order" o ON o."order_id" = po."order_id"
+    LEFT JOIN parentCat pc ON pc."product_id" = po."product_id"
+    WHERE o."order_date" BETWEEN ph."start_date" AND COALESCE(ph."end_date", '9999-12-31'::DATE)
+    GROUP BY "Product Name", pc."category_name", po.qty, ph.normal_price, p.product_id
+)
+-- SELECT *
+-- FROM parentCat
+
+SELECT *
+FROM groupingQry
+-- WHERE row_num <= 3;
+
+-- SELECT SUM(po.qty * ph.normal_price),
+--     pc.category_name
+-- FROM public."ProductOrder" po
+-- LEFT JOIN public."Product" p ON po."product_id" = p."product_id"
+-- LEFT JOIN public."PriceHistory" ph ON ph."product_id" = p."product_id"
+-- LEFT JOIN public."Order" o ON o."order_id" = po."order_id"
+-- LEFT JOIN parentCat pc ON pc."product_id" = po."product_id"
+-- WHERE o."order_date" BETWEEN ph."start_date" AND COALESCE(ph."end_date", '9999-12-31'::DATE)
+--     AND pc.category_id = 'C0008'
+-- GROUP BY pc.category_name
+ 
